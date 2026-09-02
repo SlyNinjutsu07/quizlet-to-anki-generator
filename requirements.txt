@@ -1,0 +1,14 @@
+# Dependencies for the Quizlet -> Anki tool.
+# Install into your activated venv with:  pip install -r requirements.txt
+#
+# Pinned loosely for now; run `pip freeze > requirements.txt` later to lock exact versions.
+
+# --- converter half ---
+genanki>=0.13.0      # builds the .apkg (Anki database + zip)
+
+# --- scraper half (simple fetch/parse path; used by the MVP) ---
+requests>=2.31.0     # send HTTP requests, get raw HTML
+beautifulsoup4>=4.12 # parse/search that HTML for terms + definitions
+
+# --- scraper half (browser-automation path; add later when we build the real scraper) ---
+# playwright>=1.40    # uncomment when we get to the Playwright scraper

@@ -1,0 +1,25 @@
+# Virtual environment (the "toolbox" — rebuildable from requirements.txt, never committed)
+.venv/
+venv/
+
+# Python bytecode cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build / packaging artifacts
+build/
+dist/
+*.egg-info/
+
+# Generated decks (output of the tool — not source, don't commit)
+*.apkg
+
+# Playwright browser downloads, if we go that route
+.cache/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
