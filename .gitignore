@@ -14,6 +14,7 @@ dist/
 
 # Generated decks (output of the tool — not source, don't commit)
 *.apkg
+generated_apkgs/
 
 # Playwright browser downloads, if we go that route
 .cache/
