@@ -1,5 +1,5 @@
 """Turns a list of Cards (list[Card]) into an Anki .apkg file."""
-from models import Card
+from .models import Card
 
 import genanki
 import zlib # for generating STABLE ID's
@@ -24,17 +24,19 @@ QUIZLET_MODEL = genanki.Model(
     ]
 )
 
- # TODO: add '-> bool'
-def build_deck(cardList: list[Card], deckName):
 
-    NEW_DECK = genanki.Deck(
-        generate_id_from_string(deckName),
-        deckName,
-    )
+# TODO: add '-> bool'
+def build_deck(card_list: list[Card], deck_name, output_path):
 
-    for card in cardList:
-        NEW_CARD = genanki.Note(
+    deck = genanki.Deck(generate_id_from_string(deck_name), deck_name)
+
+    for card in card_list:
+        note = genanki.Note(
             QUIZLET_MODEL,
             fields=[card.front, card.back]
         )
+
+        deck.add_note(note)
+
+
     pass
