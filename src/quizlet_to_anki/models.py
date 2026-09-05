@@ -1,4 +1,4 @@
-"""The Card contract shared between scraper and converter."""
+"""The dataclass for what the card should be: Card."""
 from dataclasses import dataclass
 
 @dataclass

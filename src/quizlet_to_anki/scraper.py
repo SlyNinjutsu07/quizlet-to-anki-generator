@@ -1,1 +1,1 @@
-"""Reads a Quizlet set and returns a list of Cards."""
+"""Reads a Quizlet set and generates a list of Cards."""
