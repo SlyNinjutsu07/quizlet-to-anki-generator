@@ -34,9 +34,6 @@ def test_build_deck():
     else:
         print(f"❌ Deck was NOT generated (expected it at {expected})")
 
-    Path(f"{deck_name}.apkg").unlink(missing_ok=True)
-    Path("generated_apkgs").rmdir()
-
 
 if __name__ == "__main__":
     test_build_deck()
