@@ -25,8 +25,6 @@ QUIZLET_MODEL = genanki.Model(
     ]
 )
 
-
-# TODO: add '-> bool'
 def build_deck(card_list: list[Card], deck_name, apkg_name=None, output_dir=None):
     if apkg_name is None:
         apkg_name = f"{deck_name}.apkg"
@@ -41,7 +39,7 @@ def build_deck(card_list: list[Card], deck_name, apkg_name=None, output_dir=None
             fields=[card.front, card.back]
         )
 
-        deck.add_note(note)
+        deck.add_note(note) 
 
     output_path = Path(output_dir) / apkg_name
     output_path.parent.mkdir(parents=True, exist_ok=True)
