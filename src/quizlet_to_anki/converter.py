@@ -44,3 +44,4 @@ def build_deck(card_list: list[Card], deck_name, apkg_name=None, output_dir=None
     output_path = Path(output_dir) / apkg_name
     output_path.parent.mkdir(parents=True, exist_ok=True)
     genanki.Package(deck).write_to_file(str(output_path))
+
