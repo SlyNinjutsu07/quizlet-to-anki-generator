@@ -12,7 +12,7 @@ def extract_cards(next_data: dict) -> None:
 
     pass
 
-def access_url(url):
+def extractor(url):
     # get url from user (handled by cli.py)
     url = "https://quizlet.com"
 

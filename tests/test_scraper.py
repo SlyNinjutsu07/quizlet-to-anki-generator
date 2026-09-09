@@ -1,4 +1,4 @@
-def test_next_data_retrieval():
+def test_extractor():
     pass
 
 def test_extract_cards():
