@@ -1,0 +1,4908 @@
+{
+  "globalNav": {
+    "activityCenterPendingNotifications": 0,
+    "canCreateClass": false,
+    "canCreateNotes": true,
+    "edgyDataAccountCompletion": false,
+    "isClassProgressUpsellModalOpen": false,
+    "isCreateClassModalOpen": false,
+    "isCreateFolderModalOpen": false,
+    "isCreateSetModalOpen": false,
+    "isFlashcardsModalOpen": false,
+    "isSetChooserModalDataLoading": true,
+    "isSchoolSectionLoading": false,
+    "isSideNavExpanded": false,
+    "magicLinkTriggeredByFacebookLoginClick": false,
+    "openedAuthModal": null,
+    "practiceTestsEligibility": {
+      "canViewContentEvalTool": false,
+      "canReportFromContentEvalTool": false,
+      "canUploadDocument": true,
+      "canViewTestPreview": true,
+      "canTakeTest": true
+    },
+    "userSchools": [
+      {
+        "id": 3037088,
+        "name": "Boston University",
+        "creatorId": null,
+        "city": "Boston",
+        "state": "MA",
+        "country": "United States",
+        "countryCode": "us",
+        "latitude": 42.351118,
+        "longitude": -71.107942,
+        "level": 3,
+        "lastModified": 1593717753
+      }
+    ],
+    "mainSchool": {
+      "id": 3037088,
+      "name": "Boston University",
+      "creatorId": null,
+      "city": "Boston",
+      "state": "MA",
+      "country": "United States",
+      "countryCode": "us",
+      "latitude": 42.351118,
+      "longitude": -71.107942,
+      "level": 3,
+      "lastModified": 1593717753
+    },
+    "bookmarkedFolders": [],
+    "user": {
+      "id": 423434763,
+      "username": "akazibu",
+      "timestamp": 1769112920,
+      "lastModified": 1788966567,
+      "type": 0,
+      "isLocked": false,
+      "selfIdentifiedTeacherStatus": 2,
+      "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocJKvQzZkRuN2rlSht3jXMuvo7uXk3Bs6YdmpTj5jLuIhwMcmw=s96-c?sz=150",
+      "timeZone": "America/New_York",
+      "daysSinceSignup": 229,
+      "firstName": "Abrar",
+      "lastName": "Kazi",
+      "_isConfirmationRequired": false,
+      "birthYear": 2007,
+      "birthMonth": 1,
+      "birthDay": 31,
+      "signUpTime": 1769112920,
+      "countryCode": "us",
+      "signupCountryCode": "us",
+      "isConfirmed": true,
+      "profileImageId": 1,
+      "email": "akazibu@bu.edu",
+      "phoneNumber": null,
+      "whatsappNumber": null,
+      "_hasPassword": false,
+      "_hasFacebook": false,
+      "_hasGoogle": true,
+      "_hasApple": false,
+      "_canChangeUsername": true,
+      "_canSendDataFromGTMToAdNetworks": true,
+      "_isEligibleForFreeTrial": true,
+      "_isEligibleForStudentReferralsProgram": true,
+      "isRetargetable": true,
+      "_isUnderAge": false,
+      "_isUnderAgeForAds": false,
+      "_isUnderAgeOrInCoppaTransition": false,
+      "_needsChildDirectedTreatment": false,
+      "isSelfLearner": false,
+      "_hasCompletedOnboarding": true,
+      "_featurePlanType": null,
+      "_isInFreeTrial": false,
+      "webLocale": "en-au",
+      "mobileLocale": null,
+      "userLocalePreference": null,
+      "srsNotificationTime": 28800,
+      "srsPushNotificationsEnabled": false,
+      "notificationPreferences": {
+        "streaks_and_badges": [
+          "email"
+        ],
+        "study_reminders": [
+          "email"
+        ],
+        "features_tips_challenges": [
+          "email"
+        ],
+        "sales_giveaways_promotions": [
+          "email"
+        ]
+      }
+    },
+    "userShortcuts": [
+      {
+        "modelId": "15163686",
+        "modelType": 4,
+        "name": "LC211",
+        "url": "https://quizlet.com/class/15163686/"
+      },
+      {
+        "modelId": "17064796",
+        "modelType": 4,
+        "name": "LC112",
+        "url": "https://quizlet.com/class/17064796/"
+      },
+      {
+        "modelId": "172756406",
+        "modelType": 3,
+        "name": "LC 112",
+        "url": "https://quizlet.com/user/akazibu/folders/lc-112",
+        "courseId": 7236508,
+        "schoolId": 3037088
+      }
+    ]
+  },
+  "login": {
+    "form": {
+      "password": "",
+      "username": ""
+    },
+    "hasMultipleAccounts": false,
+    "numFailedAttempts": 0,
+    "openedAuthModal": null,
+    "validationErrorsByInputName": {
+      "generic": []
+    },
+    "wasSubmitted": false,
+    "magicLinkUsername": "",
+    "redir": ""
+  },
+  "core": {
+    "acknowledgedOnboardingSteps": {},
+    "shouldShowAd": true,
+    "user": {
+      "id": 423434763,
+      "username": "akazibu",
+      "timestamp": 1769112920,
+      "lastModified": 1788966567,
+      "type": 0,
+      "isLocked": false,
+      "selfIdentifiedTeacherStatus": 2,
+      "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocJKvQzZkRuN2rlSht3jXMuvo7uXk3Bs6YdmpTj5jLuIhwMcmw=s96-c?sz=150",
+      "timeZone": "America/New_York",
+      "daysSinceSignup": 229,
+      "firstName": "Abrar",
+      "lastName": "Kazi",
+      "_isConfirmationRequired": false,
+      "birthYear": 2007,
+      "birthMonth": 1,
+      "birthDay": 31,
+      "signUpTime": 1769112920,
+      "countryCode": "us",
+      "signupCountryCode": "us",
+      "isConfirmed": true,
+      "profileImageId": 1,
+      "email": "akazibu@bu.edu",
+      "phoneNumber": null,
+      "whatsappNumber": null,
+      "_hasPassword": false,
+      "_hasFacebook": false,
+      "_hasGoogle": true,
+      "_hasApple": false,
+      "_canChangeUsername": true,
+      "_canSendDataFromGTMToAdNetworks": true,
+      "_isEligibleForFreeTrial": true,
+      "_isEligibleForStudentReferralsProgram": true,
+      "isRetargetable": true,
+      "_isUnderAge": false,
+      "_isUnderAgeForAds": false,
+      "_isUnderAgeOrInCoppaTransition": false,
+      "_needsChildDirectedTreatment": false,
+      "isSelfLearner": false,
+      "_hasCompletedOnboarding": true,
+      "_featurePlanType": null,
+      "_isInFreeTrial": false,
+      "webLocale": "en-au",
+      "mobileLocale": null,
+      "userLocalePreference": null,
+      "srsNotificationTime": 28800,
+      "srsPushNotificationsEnabled": false,
+      "notificationPreferences": {
+        "streaks_and_badges": [
+          "email"
+        ],
+        "study_reminders": [
+          "email"
+        ],
+        "features_tips_challenges": [
+          "email"
+        ],
+        "sales_giveaways_promotions": [
+          "email"
+        ]
+      }
+    },
+    "isBrowseNavOpen": false
+  },
+  "edgyData": {
+    "addedCourseMemberships": [],
+    "addedSchoolMembership": null,
+    "courses": {
+      "ids": [],
+      "entities": {},
+      "initialIds": null,
+      "codeEnrollments": null,
+      "departments": []
+    },
+    "edgyDataOnboardingType": "user_with_courses",
+    "isCoursesLoading": false,
+    "hasDismissedEdgyDataEmptyState": false,
+    "isConfirmRemoveSchoolModalOpen": false,
+    "isEdgyDataModalOpen": false,
+    "isNativeAppWebView": false,
+    "maxNumOfCourses": 50,
+    "removedCourseMemberships": [],
+    "removedSchoolMembership": null,
+    "schools": {
+      "selectedSchool": {
+        "id": 3037088,
+        "name": "Boston University",
+        "creatorId": null,
+        "city": "Boston",
+        "state": "MA",
+        "country": "United States",
+        "countryCode": "us",
+        "latitude": 42.351118,
+        "longitude": -71.107942,
+        "level": 3,
+        "lastModified": 1593717753
+      },
+      "userCountryCode": null,
+      "initialSchool": {
+        "id": 3037088,
+        "name": "Boston University",
+        "creatorId": null,
+        "city": "Boston",
+        "state": "MA",
+        "country": "United States",
+        "countryCode": "us",
+        "latitude": 42.351118,
+        "longitude": -71.107942,
+        "level": 3,
+        "lastModified": 1593717753
+      }
+    },
+    "shouldRedirectOnEnd": true,
+    "shouldShowModalCloseButton": true,
+    "shouldShowEdgyData": true,
+    "startScreen": "collect_school",
+    "shouldOnlyShowSchoolScreen": false,
+    "user": {
+      "id": 423434763,
+      "username": "akazibu",
+      "timestamp": 1769112920,
+      "lastModified": 1788966567,
+      "type": 0,
+      "isLocked": false,
+      "selfIdentifiedTeacherStatus": 2,
+      "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocJKvQzZkRuN2rlSht3jXMuvo7uXk3Bs6YdmpTj5jLuIhwMcmw=s96-c?sz=150",
+      "timeZone": "America/New_York",
+      "daysSinceSignup": 229,
+      "firstName": "Abrar",
+      "lastName": "Kazi",
+      "_isConfirmationRequired": false,
+      "birthYear": 2007,
+      "birthMonth": 1,
+      "birthDay": 31,
+      "signUpTime": 1769112920,
+      "countryCode": "us",
+      "signupCountryCode": "us",
+      "isConfirmed": true,
+      "profileImageId": 1,
+      "email": "akazibu@bu.edu",
+      "phoneNumber": null,
+      "whatsappNumber": null,
+      "_hasPassword": false,
+      "_hasFacebook": false,
+      "_hasGoogle": true,
+      "_hasApple": false,
+      "_canChangeUsername": true,
+      "_canSendDataFromGTMToAdNetworks": true,
+      "_isEligibleForFreeTrial": true,
+      "_isEligibleForStudentReferralsProgram": true,
+      "isRetargetable": true,
+      "_isUnderAge": false,
+      "_isUnderAgeForAds": false,
+      "_isUnderAgeOrInCoppaTransition": false,
+      "_needsChildDirectedTreatment": false,
+      "isSelfLearner": false,
+      "_hasCompletedOnboarding": true,
+      "_featurePlanType": null,
+      "_isInFreeTrial": false,
+      "webLocale": "en-au",
+      "mobileLocale": null,
+      "userLocalePreference": null,
+      "srsNotificationTime": 28800,
+      "srsPushNotificationsEnabled": false,
+      "notificationPreferences": {
+        "streaks_and_badges": [
+          "email"
+        ],
+        "study_reminders": [
+          "email"
+        ],
+        "features_tips_challenges": [
+          "email"
+        ],
+        "sales_giveaways_promotions": [
+          "email"
+        ]
+      }
+    }
+  },
+  "userPrompts": {
+    "canResendConfirmationEmail": false,
+    "formattedTeacherUpsellMonthlyPrice": "",
+    "hasExceededMaxConfirmationEmailResends": false,
+    "requestUri": "",
+    "shouldShowConfirmEmailPrompt": false,
+    "supportEmail": "",
+    "isConfirmEmailModalOpen": false,
+    "isTeacherUpsellModalOpen": false
+  },
+  "classSession": {
+    "classSession": null,
+    "isCreatorEndModalOpen": false,
+    "isForceExpireSessionModalOpen": false,
+    "isJoinModalOpen": false,
+    "isLoading": false,
+    "shouldShowExpirationWarning": false
+  },
+  "folderStudyMaterials": {
+    "foldersToAddStudyMaterialsTo": [
+      {
+        "basePath": "/user/akazibu/folders/lc-112",
+        "id": 172756406,
+        "isAlreadyAdded": false,
+        "subfolders": [],
+        "timestamp": 1769112937,
+        "title": "LC 112"
+      }
+    ],
+    "isAddToFolderModalOpen": false,
+    "studyMaterialId": "520929933",
+    "studyMaterialType": 1,
+    "isCreateFolderModalOpen": false
+  },
+  "aiCoach": {
+    "bootstrap": null,
+    "conversations": {},
+    "currentConversationId": null,
+    "currentScreenInfo": null,
+    "draftMessage": "",
+    "hasRestoredInitialConversation": false,
+    "lastMessageSentConversationId": null,
+    "isChatOpen": false,
+    "isEligible": true,
+    "isFullscreen": false,
+    "modal": "none",
+    "optionsPanel": {
+      "envelope": null,
+      "isOpen": false,
+      "selections": {}
+    },
+    "shouldHideEntryButton": false,
+    "sidebar": {
+      "pagination": null,
+      "error": null,
+      "hasFetchedInitial": false,
+      "isFetching": false,
+      "isOpen": false,
+      "itemIds": [],
+      "items": {},
+      "pendingRename": null
+    }
+  },
+  "achievements": {
+    "badges": [],
+    "error": null,
+    "hasShownOnboarding": true,
+    "recentBadge": null,
+    "history": {
+      "dates": []
+    },
+    "streak": null
+  },
+  "setPage": {
+    "alphabeticalIsDifferent": true,
+    "alphabeticalOrder": [
+      18684164180,
+      18684164171,
+      18684164181,
+      18684164176,
+      18684164185,
+      18684164167,
+      18684164172,
+      18684164184,
+      18684164168,
+      18684164175,
+      18684164174,
+      18684164177,
+      18684164183,
+      18684164178,
+      18684164170,
+      18684164179,
+      18684164186,
+      18684164169,
+      18684164182,
+      18684164173
+    ],
+    "adminToolsData": null,
+    "bannerType": null,
+    "practiceTestsBannerVariant": null,
+    "examPrepNudgeBannerType": null,
+    "setSpecializationL3": null,
+    "breadcrumbs": null,
+    "canCopySet": true,
+    "canCreateClass": false,
+    "canEditRichText": false,
+    "canEditSet": false,
+    "canExportSet": false,
+    "classesToAddSetTo": [],
+    "classProgressUpsellModalShowCount": null,
+    "countryCodeSubfolder": null,
+    "creator": {
+      "id": 182188126,
+      "username": "rambe0112",
+      "timestamp": 1598539424,
+      "lastModified": 1788437063,
+      "type": 2,
+      "isLocked": false,
+      "selfIdentifiedTeacherStatus": 1,
+      "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocJgzGh6NyxKx0WkJWJAPV53DLaMWmR_qAd0tLgBgeT2OWLTtEuT=s96-c?sz=150",
+      "timeZone": "America/New_York",
+      "daysSinceSignup": 2204,
+      "firstName": "Amber",
+      "lastName": "Navarre",
+      "isAdmin": false
+    },
+    "crossModeResetTimestamp": null,
+    "currentPersonId": null,
+    "diagramImage": null,
+    "diagramShapes": null,
+    "onboardingSteps": {
+      "firstSetSave": false,
+      "shouldShowAddToClassPopover": false,
+      "isEligibleToSeeTeacherOnboardingPreviewCard": false
+    },
+    "educationQAndAData": {
+      "@context": "https://schema.org/",
+      "@type": "Quiz",
+      "about": {
+        "@type": "Thing",
+        "name": "Integrated Chinese 3 - Lesson 1"
+      },
+      "hasPart": [
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "开学",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "school opens / new term begins"
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "新生",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "new student"
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "辆",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "measure word for vehicles"
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "研究生",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "graduate student"
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "出生",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "to be born"
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "弓",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "bow"
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "长",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "long"
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "校外",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "off campus"
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "校内",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "on campus"
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "安全",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "safe / secure"
+          }
+        }
+      ]
+    },
+    "embedInfoByMode": [
+      {
+        "displayName": "Match",
+        "modeType": 5
+      },
+      {
+        "displayName": "Learn",
+        "modeType": 17
+      },
+      {
+        "displayName": "Test",
+        "modeType": 3
+      },
+      {
+        "displayName": "Flashcards",
+        "modeType": 2
+      },
+      {
+        "displayName": "Spell",
+        "modeType": 8
+      }
+    ],
+    "expertExplanationsModalVariant": null,
+    "expertVerifiedQuestions": [],
+    "explanationsSolutionsAmount": 1000000,
+    "folder": null,
+    "funnelUUID": "096bd38e-2425-4864-a5b2-38ededde24a9",
+    "hasAdvancedDiagramShapes": false,
+    "hasAnyAnswers": true,
+    "hasBeenShownStudyOnboarding": false,
+    "hasClasses": true,
+    "hasJoinedAChallenge": false,
+    "hasCustomAudio": false,
+    "hasDiagramWithMorePointsThanFreeLimit": false,
+    "isFirstCreatedSetModalOpen": false,
+    "hasRichText": false,
+    "hasUploadedImage": false,
+    "includedInFolder": null,
+    "isAdsInCardsPreviewEnabled": false,
+    "isCreatorUnderageAndUnconfirmed": false,
+    "isDeletable": false,
+    "isDiagramSet": false,
+    "isEditable": false,
+    "isEligibleForBrainBeats": false,
+    "isEligibleToSeeTeacherOnboardingPreviewCard": false,
+    "isEligibleForUpdatedTestModeUrls": false,
+    "isFireflySharingEnabled": false,
+    "isFlaggedForProfanity": false,
+    "isUserEligibleForClassSessions": false,
+    "isLearnHighlighted": false,
+    "isNewSetShareModalOpen": false,
+    "isPaidTeacher": false,
+    "isPublic": true,
+    "isReportingFlowBlocked": false,
+    "isSetEligibleForBlast": true,
+    "isSetEligibleForBlocks": true,
+    "isSetEligibleForCharms": true,
+    "isSetEligibleForGravity": true,
+    "isSetViableForClassProgress": false,
+    "isTeacher": false,
+    "isRewardedPassVideoAdLoaded": false,
+    "learnButtonExperimentVariant": null,
+    "likelyToRankSets": null,
+    "mainSchool": {
+      "id": 3037088,
+      "name": "Boston University",
+      "creatorId": null,
+      "city": "Boston",
+      "state": "MA",
+      "country": "United States",
+      "countryCode": "us",
+      "latitude": 42.351118,
+      "longitude": -71.107942,
+      "level": 3,
+      "lastModified": 1593717753
+    },
+    "metering": {
+      "meteringData": null
+    },
+    "meteringReasons": {
+      "1": {
+        "reason": 5
+      }
+    },
+    "newSetShareUrls": null,
+    "numTimesStudyValuePropUpsellModalDismissed": 1,
+    "onboardingCoachmarkType": null,
+    "originalOrder": [
+      18684164167,
+      18684164168,
+      18684164169,
+      18684164170,
+      18684164171,
+      18684164172,
+      18684164173,
+      18684164174,
+      18684164175,
+      18684164176,
+      18684164177,
+      18684164178,
+      18684164179,
+      18684164180,
+      18684164181,
+      18684164182,
+      18684164183,
+      18684164184,
+      18684164185,
+      18684164186
+    ],
+    "pagingMeta": null,
+    "practiceQuestionStudiableItemIds": [
+      18684164176,
+      18684164178,
+      18684164169,
+      18684164180,
+      18684164171,
+      18684164173,
+      18684164186
+    ],
+    "purchasableType": 0,
+    "randomSeed": 754,
+    "ratingAverage": {
+      "average": 4.9,
+      "count": 10
+    },
+    "reengagementModalType": "learn",
+    "recommendedCourseMetadata": null,
+    "recommendedSets": [
+      {
+        "id": 519402507,
+        "timestamp": 1597804982,
+        "lastModified": 1599017262,
+        "publishedTimestamp": 1597887168,
+        "creatorId": 74677844,
+        "wordLang": "zh-CN",
+        "defLang": "en",
+        "title": "第11课-中国的节日 Part 1",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 30,
+        "hasImages": true,
+        "parentId": 518794235,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/519402507/%E7%AC%AC11%E8%AF%BE-%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%8A%82%E6%97%A5-part-1-flash-cards/",
+        "_thumbnailUrl": "https://o.quizlet.com/3dNYx07KBs9xLb.PrGKJ7A_m.jpg",
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 74677844,
+          "username": "Charlotte_Dong1",
+          "timestamp": 1512237990,
+          "lastModified": 1788384670,
+          "type": 2,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 1,
+          "_imageUrl": "https://assets.quizlet.com/static/i/animals/117.3cd40b021ac604f.jpg",
+          "timeZone": "America/New_York",
+          "daysSinceSignup": 3202
+        }
+      },
+      {
+        "id": 522022682,
+        "timestamp": 1598981705,
+        "lastModified": 1598981913,
+        "publishedTimestamp": 1598981913,
+        "creatorId": 182188126,
+        "wordLang": "zh-pi",
+        "defLang": "en",
+        "title": "Integrated Chinese 3 - Lesson 2",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 28,
+        "hasImages": false,
+        "parentId": 417281049,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/522022682/integrated-chinese-3-lesson-2-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 182188126,
+          "username": "rambe0112",
+          "timestamp": 1598539424,
+          "lastModified": 1788437063,
+          "type": 2,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 1,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocJgzGh6NyxKx0WkJWJAPV53DLaMWmR_qAd0tLgBgeT2OWLTtEuT=s96-c?sz=150",
+          "timeZone": "America/New_York",
+          "daysSinceSignup": 2204,
+          "firstName": "Amber",
+          "lastName": "Navarre"
+        }
+      },
+      {
+        "id": 417280790,
+        "timestamp": 1565192780,
+        "lastModified": 1565192786,
+        "publishedTimestamp": 1565192785,
+        "creatorId": 120471002,
+        "wordLang": "zh-CN",
+        "defLang": "en",
+        "title": "Integrated Chinese 3 - Lesson 1",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 22,
+        "hasImages": false,
+        "parentId": 307956786,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/417280790/integrated-chinese-3-lesson-1-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 120471002,
+          "username": "jiangliu-usc",
+          "timestamp": 1552705945,
+          "lastModified": 1712768190,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 1,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocLweXW-nRi6crcP-ohIlcdqpTT-zwXsCTD_wnCUiW7Hu7f3LA=s96-c?sz=150",
+          "timeZone": "America/New_York",
+          "daysSinceSignup": 2734,
+          "firstName": "Jiang",
+          "lastName": "Liu"
+        }
+      },
+      {
+        "id": 420575932,
+        "timestamp": 1566994057,
+        "lastModified": 1566994498,
+        "publishedTimestamp": 1566994498,
+        "creatorId": 114953772,
+        "wordLang": "zh-CN",
+        "defLang": "en",
+        "title": "Integrated Chinese 3 Lesson 1",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 23,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/420575932/integrated-chinese-3-lesson-1-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 114953772,
+          "username": "dhenson223",
+          "timestamp": 1549218653,
+          "lastModified": 1615826173,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh6.googleusercontent.com/-_sEnDyxOGXo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck3Y-Y5VL-zFZ_nnnzsxDwr4jj_Rg/s96-c/photo.jpg?sz=150",
+          "timeZone": "America/New_York",
+          "daysSinceSignup": 2774,
+          "firstName": "Dylan A",
+          "lastName": "Henson"
+        }
+      },
+      {
+        "id": 522161278,
+        "timestamp": 1599016925,
+        "lastModified": 1611669277,
+        "publishedTimestamp": 1599017215,
+        "creatorId": 74677844,
+        "wordLang": "zh-CN",
+        "defLang": "en",
+        "title": "第11课-中国的节日 Part2",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 22,
+        "hasImages": true,
+        "parentId": 518794235,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/522161278/%E7%AC%AC11%E8%AF%BE-%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%8A%82%E6%97%A5-part2-flash-cards/",
+        "_thumbnailUrl": "https://o.quizlet.com/O1sajOeIqkHIvThaePxTNg_m.jpg",
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 74677844,
+          "username": "Charlotte_Dong1",
+          "timestamp": 1512237990,
+          "lastModified": 1788384670,
+          "type": 2,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 1,
+          "_imageUrl": "https://assets.quizlet.com/static/i/animals/117.3cd40b021ac604f.jpg",
+          "timeZone": "America/New_York",
+          "daysSinceSignup": 3202
+        }
+      },
+      {
+        "id": 522024027,
+        "timestamp": 1598981947,
+        "lastModified": 1598982668,
+        "publishedTimestamp": 1598982668,
+        "creatorId": 182188126,
+        "wordLang": "zh-pi",
+        "defLang": "en",
+        "title": "Integrated Chinese 3 - Lesson 3",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 31,
+        "hasImages": true,
+        "parentId": 417281170,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/522024027/integrated-chinese-3-lesson-3-flash-cards/",
+        "_thumbnailUrl": "https://o.quizlet.com/bfpcanr41krx6q0sBWv8fQ_m.jpg",
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 182188126,
+          "username": "rambe0112",
+          "timestamp": 1598539424,
+          "lastModified": 1788437063,
+          "type": 2,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 1,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocJgzGh6NyxKx0WkJWJAPV53DLaMWmR_qAd0tLgBgeT2OWLTtEuT=s96-c?sz=150",
+          "timeZone": "America/New_York",
+          "daysSinceSignup": 2204,
+          "firstName": "Amber",
+          "lastName": "Navarre"
+        }
+      },
+      {
+        "id": 1199851535,
+        "timestamp": 1786916242,
+        "lastModified": 1787252417,
+        "publishedTimestamp": 1786916545,
+        "creatorId": 437943178,
+        "wordLang": "zh-CN",
+        "defLang": "en",
+        "title": "IC book 1-L1 D1 Vocab",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 15,
+        "hasImages": false,
+        "parentId": 947654456,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/1199851535/ic-book-1-l1-d1-vocab-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 437943178,
+          "username": "clai379",
+          "timestamp": 1786635205,
+          "lastModified": 1788896067,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 1,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocJ6axGS2bwpc--HZC1xOjZpJEaJFM9aRB4EL3Y74VDK77KE4Q=s96-c?sz=150",
+          "timeZone": "America/Chicago",
+          "daysSinceSignup": 27,
+          "firstName": "CHAOHUA",
+          "lastName": "LAI"
+        }
+      },
+      {
+        "id": 1202090678,
+        "timestamp": 1787763499,
+        "lastModified": 1787764533,
+        "publishedTimestamp": 1787764224,
+        "creatorId": 27505153,
+        "wordLang": "zh-CN",
+        "defLang": "en",
+        "title": "Unit 1 Part 2 Narrative 'My Trip to Beijing' ",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 16,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/1202090678/unit-1-part-2-narrative-my-trip-to-beijing-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "uploadUuid": "e7fcbcad-e05d-40b2-ad58-2a317260bcfc",
+        "_creator": {
+          "id": 27505153,
+          "username": "Lian_Wang4",
+          "timestamp": 1441035768,
+          "lastModified": 1788973894,
+          "type": 2,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 1,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocLyqWsl2N2Vxve9Z9-xmpNbUHLRvrKhHg08pOtt27yAl88bmTzm=s96-c?sz=150",
+          "timeZone": "America/New_York",
+          "daysSinceSignup": 4027,
+          "firstName": "Lian",
+          "lastName": "Wang"
+        }
+      },
+      {
+        "id": 1203040066,
+        "timestamp": 1788110332,
+        "lastModified": 1788821488,
+        "publishedTimestamp": 1788110333,
+        "creatorId": 319116876,
+        "wordLang": "zh-CN",
+        "defLang": "en",
+        "title": "Directions",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 15,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 2,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/1203040066/directions-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 319116876,
+          "username": "joyce_zyl189",
+          "timestamp": 1693680011,
+          "lastModified": 1788821391,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocJRw7fuU0cmnwOlW6FGuJaDMSEq08j_g0cC0mNlUr4HO7CxmQ=s96-c?sz=150",
+          "timeZone": "America/Los_Angeles",
+          "daysSinceSignup": 1102,
+          "firstName": "Joyce",
+          "lastName": "Li"
+        }
+      },
+      {
+        "id": 1203745644,
+        "timestamp": 1788286619,
+        "lastModified": 1788708368,
+        "publishedTimestamp": 1788288525,
+        "creatorId": 133002190,
+        "wordLang": "zh-pi",
+        "defLang": "en",
+        "title": "Chinese Pinyin Vocabulary from Introductory unit",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "Vocabulary from Week 1,2 of class",
+        "numTerms": 44,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/1203745644/chinese-pinyin-vocabulary-from-introductory-unit-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 133002190,
+          "username": "Tap_N",
+          "timestamp": 1565831454,
+          "lastModified": 1788711964,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocL9b-Uat3Xp5VPb31CX11jh8EHHvI5ENvE22_CGnQmskEGnOT8=s96-c?sz=150",
+          "timeZone": "America/New_York",
+          "daysSinceSignup": 2582,
+          "firstName": "Cam",
+          "lastName": "N"
+        }
+      },
+      {
+        "id": 440331607,
+        "timestamp": 1571064014,
+        "lastModified": 1571064044,
+        "publishedTimestamp": 1571064044,
+        "creatorId": 3368284,
+        "wordLang": "zh-CN",
+        "defLang": "en",
+        "title": "HSK 2 Chinese Characters",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 173,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/440331607/hsk-2-chinese-characters-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 3368284,
+          "username": "kennyboon",
+          "timestamp": 1331817680,
+          "lastModified": 1787569255,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://assets.quizlet.com/static/i/animals/116.9aaedd4f4495837.jpg",
+          "timeZone": "America/Los_Angeles",
+          "daysSinceSignup": 5291,
+          "firstName": "Boon",
+          "lastName": "Lim"
+        }
+      },
+      {
+        "id": 9451212,
+        "timestamp": 1327506648,
+        "lastModified": 1456890783,
+        "publishedTimestamp": 1327506648,
+        "creatorId": 2532167,
+        "wordLang": "zh-CN",
+        "defLang": "en",
+        "title": "Integrated Chinese Lesson 7 Dialogue 1",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 25,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 0,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/9451212/integrated-chinese-lesson-7-dialogue-1-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 2532167,
+          "username": "shihlaoshi",
+          "timestamp": 1319484692,
+          "lastModified": 1694387219,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://assets.quizlet.com/static/i/animals/116.9aaedd4f4495837.jpg",
+          "timeZone": "America/New_York",
+          "daysSinceSignup": 5433
+        }
+      },
+      {
+        "id": 483241034,
+        "timestamp": 1581302619,
+        "lastModified": 1581304357,
+        "publishedTimestamp": 1581304357,
+        "creatorId": 72565856,
+        "wordLang": "zh-CN",
+        "defLang": "en",
+        "title": "Lesson 16 Dialogue 1: Seeing a Movie",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 10,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/483241034/lesson-16-dialogue-1-seeing-a-movie-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 72565856,
+          "username": "lauren_101102",
+          "timestamp": 1509823798,
+          "lastModified": 1757958675,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://up.quizlet.com/177c68-zgusf-256s.jpg",
+          "timeZone": "America/New_York",
+          "daysSinceSignup": 3230
+        }
+      },
+      {
+        "id": 206032321,
+        "timestamp": 1493637023,
+        "lastModified": 1493727788,
+        "publishedTimestamp": 1493650999,
+        "creatorId": 60487474,
+        "wordLang": "zh-CN",
+        "defLang": "en",
+        "title": "HSK 1 Chapter 7 Vocabulary",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 46,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/206032321/hsk-1-chapter-7-vocabulary-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 60487474,
+          "username": "asukahasegawa23",
+          "timestamp": 1493637000,
+          "lastModified": 1522450747,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://assets.quizlet.com/static/i/animals/116.9aaedd4f4495837.jpg",
+          "timeZone": "America/New_York",
+          "daysSinceSignup": 3418
+        }
+      },
+      {
+        "id": 1145246565,
+        "timestamp": 1771388873,
+        "lastModified": 1771388873,
+        "publishedTimestamp": 1771388873,
+        "creatorId": 233054567,
+        "wordLang": "en",
+        "defLang": "zh-CN",
+        "title": "Common Western Foods in Chinese",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 21,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/1145246565/common-western-foods-in-chinese-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "createdByFeature": "ai_coach",
+        "uploadUuid": "c7f4e3f8-f9e6-4d5f-868c-ec7115c94a00",
+        "_creator": {
+          "id": 233054567,
+          "username": "calvincindeed",
+          "timestamp": 1629956154,
+          "lastModified": 1788924887,
+          "type": 1,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocI0C3m2QM5SFB23j9sD7dlZRktcVePBizivpyKw0uotCKzQQYKo=s96-c?sz=150",
+          "timeZone": "Asia/Shanghai",
+          "daysSinceSignup": 1840
+        }
+      },
+      {
+        "id": 1197830912,
+        "timestamp": 1785805472,
+        "lastModified": 1785813462,
+        "publishedTimestamp": 1785813462,
+        "creatorId": 98728896,
+        "wordLang": "zh-pi",
+        "defLang": "en",
+        "title": "Chapter 8: Flying Hong Kong",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 77,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/1197830912/chapter-8-flying-hong-kong-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 98728896,
+          "username": "aueelox",
+          "timestamp": 1538597649,
+          "lastModified": 1787189175,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://assets.quizlet.com/static/i/animals/122.c263b6b48ca2b1a.jpg",
+          "timeZone": "America/Phoenix",
+          "daysSinceSignup": 2897
+        }
+      },
+      {
+        "id": 1184322558,
+        "timestamp": 1779849164,
+        "lastModified": 1780066649,
+        "publishedTimestamp": 1779859702,
+        "creatorId": 234491208,
+        "wordLang": "en",
+        "defLang": "zh-pi",
+        "title": "CHIM 1-wei tong/epigastric pain modifications (week 4)",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 29,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/1184322558/chim-1-wei-tongepigastric-pain-modifications-week-4-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 234491208,
+          "username": "Gillian_Wunsch2",
+          "timestamp": 1630633815,
+          "lastModified": 1785781838,
+          "type": 1,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://assets.quizlet.com/static/i/animals/116.9aaedd4f4495837.jpg",
+          "timeZone": "America/Los_Angeles",
+          "daysSinceSignup": 1832
+        }
+      },
+      {
+        "id": 1139601935,
+        "timestamp": 1770228796,
+        "lastModified": 1770228881,
+        "publishedTimestamp": 1770228881,
+        "creatorId": 156006336,
+        "wordLang": "zh-CN",
+        "defLang": "en",
+        "title": "Chinese vocab week 1",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 86,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/1139601935/chinese-vocab-week-1-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "uploadUuid": "a0adb8a1-a270-4341-aaf9-de0008155523",
+        "_creator": {
+          "id": 156006336,
+          "username": "F_Hayes7",
+          "timestamp": 1578533231,
+          "lastModified": 1788300935,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocKfRVc5mIWngAeYBoeVtklEILa8C1kxNUlSGAinrsywqsbhllg=s96-c?sz=150",
+          "timeZone": "America/New_York",
+          "daysSinceSignup": 2435,
+          "firstName": "F",
+          "lastName": "Hayes"
+        }
+      },
+      {
+        "id": 1197972059,
+        "timestamp": 1785871327,
+        "lastModified": 1785871327,
+        "publishedTimestamp": 1785871327,
+        "creatorId": 419122287,
+        "wordLang": "en",
+        "defLang": "zh-CN",
+        "title": "SAT数学：三角形、多边形与圆的关键概念与公式",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 65,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 2,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/1197972059/sat%E6%95%B0%E5%AD%A6%E4%B8%89%E8%A7%92%E5%BD%A2%E5%A4%9A%E8%BE%B9%E5%BD%A2%E4%B8%8E%E5%9C%86%E7%9A%84%E5%85%B3%E9%94%AE%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%85%AC%E5%BC%8F-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "magicNoteUuid": "7a29d4e6-6075-4d48-b2d5-d27815cfcf7b",
+        "createdByFeature": "magic_notes",
+        "_creator": {
+          "id": 419122287,
+          "username": "mandychen784",
+          "timestamp": 1764460841,
+          "lastModified": 1786032256,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocL-Ovc0S-Z6O9t0VeyAWPaS7-1yAOfCXcgjOMYXPA5QXuY4Jw=s96-c?sz=150",
+          "timeZone": "America/Los_Angeles",
+          "daysSinceSignup": 283
+        }
+      },
+      {
+        "id": 1046079389,
+        "timestamp": 1747707582,
+        "lastModified": 1747707891,
+        "publishedTimestamp": 1747707890,
+        "creatorId": 371192137,
+        "wordLang": "zh-CN",
+        "defLang": "en",
+        "title": "L4D2 Vocab",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 11,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/1046079389/l4d2-vocab-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 371192137,
+          "username": "sophiewuncha",
+          "timestamp": 1728920883,
+          "lastModified": 1788044825,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocL68ycIC8Umxg_mkjEuf8dmQDA5nG2mPywjbiNmd8uADiPadw=s96-c?sz=150",
+          "timeZone": "America/Los_Angeles",
+          "daysSinceSignup": 695
+        }
+      },
+      {
+        "id": 1154533033,
+        "timestamp": 1773196940,
+        "lastModified": 1774559370,
+        "publishedTimestamp": 1773197103,
+        "creatorId": 164381226,
+        "wordLang": "en",
+        "defLang": "zh-CN",
+        "title": "Lesson 15",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 70,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/1154533033/lesson-15-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 164381226,
+          "username": "AmILeoeoeo",
+          "timestamp": 1583770065,
+          "lastModified": 1788844724,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocJr-67wi_vsJL7Kv5BjfRKJXb41Hl_iVpTnP7RWFSNruvNm9iA=s96-c?sz=150",
+          "timeZone": "America/Los_Angeles",
+          "daysSinceSignup": 2375
+        }
+      },
+      {
+        "id": 1169564080,
+        "timestamp": 1776538137,
+        "lastModified": 1776538791,
+        "publishedTimestamp": 1776538791,
+        "creatorId": 103094126,
+        "wordLang": "zh-pi",
+        "defLang": "en",
+        "title": "week 1 Day 4",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 6,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/1169564080/week-1-day-4-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 103094126,
+          "username": "commanders_JD5",
+          "timestamp": 1540826377,
+          "lastModified": 1777468727,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a-/AOh14Gi3q7y3-Erm472q-Dh17FB2Y92cxOrKG9GaCjWp=s96-c?sz=150",
+          "timeZone": "America/New_York",
+          "daysSinceSignup": 2872,
+          "firstName": "carlos",
+          "lastName": "gomez"
+        }
+      },
+      {
+        "id": 1183404493,
+        "timestamp": 1779568512,
+        "lastModified": 1779568684,
+        "publishedTimestamp": 1779568684,
+        "creatorId": 415650987,
+        "wordLang": "zh-CN",
+        "defLang": "en",
+        "title": "Chinese III Lesson 12: Dining Extra",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 11,
+        "hasImages": true,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/1183404493/chinese-iii-lesson-12-dining-extra-flash-cards/",
+        "_thumbnailUrl": "https://o.quizlet.com/mbCuVmRaXNmB8PH8y3H4Nw_m.jpg",
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 415650987,
+          "username": "agriffin1410",
+          "timestamp": 1761566840,
+          "lastModified": 1788957890,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocLi-aWHnxLmM1Hd-GtxzpDLhD5eK-S11OijW1bb-MnhKc8-hsc=s96-c?sz=150",
+          "timeZone": "America/Chicago",
+          "daysSinceSignup": 317,
+          "firstName": "Anton",
+          "lastName": "Griffin"
+        }
+      },
+      {
+        "id": 1150412532,
+        "timestamp": 1772444380,
+        "lastModified": 1772444381,
+        "publishedTimestamp": 1772444381,
+        "creatorId": 363768607,
+        "wordLang": "zh-CN",
+        "defLang": "en",
+        "title": "90-99 and 111-120",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 20,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 2,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/1150412532/90-99-and-111-120-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 363768607,
+          "username": "mandyz0109",
+          "timestamp": 1725556315,
+          "lastModified": 1777557163,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocIYUx-O3-jTv74lUJ40nY5Wv48HV-SNee2fg_liBhW6Sz4cG8k=s96-c?sz=150",
+          "timeZone": "America/New_York",
+          "daysSinceSignup": 734
+        }
+      },
+      {
+        "id": 1180836700,
+        "timestamp": 1778867083,
+        "lastModified": 1778867084,
+        "publishedTimestamp": 1778867084,
+        "creatorId": 104955412,
+        "wordLang": "zh-CN",
+        "defLang": "en",
+        "title": "MBD 13 #1,2,3",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 18,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 2,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/1180836700/mbd-13-123-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 104955412,
+          "username": "Atalanta-Great",
+          "timestamp": 1541943096,
+          "lastModified": 1784967093,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocLVnvsd0NSl6kffwlTn-SeqKpDkOd7lAuoXtvINLj76j1FdeZtr=s96-c?sz=150",
+          "timeZone": "America/New_York",
+          "daysSinceSignup": 2859
+        }
+      },
+      {
+        "id": 863832088,
+        "timestamp": 1702493476,
+        "lastModified": 1702493695,
+        "publishedTimestamp": 1702493692,
+        "creatorId": 65448519,
+        "wordLang": "zh-CN",
+        "defLang": "en",
+        "title": "chinese midterm",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 15,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/863832088/chinese-midterm-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 65448519,
+          "username": "jones3bethany",
+          "timestamp": 1504619550,
+          "lastModified": 1744820665,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocLwN-sSnhE9CzTzFLm09rig963EccOvgSkRaFBVPCiCOV5Pjq7L=s96-c?sz=150",
+          "timeZone": "America/New_York",
+          "daysSinceSignup": 3291
+        }
+      },
+      {
+        "id": 249263614,
+        "timestamp": 1512327046,
+        "lastModified": 1512438245,
+        "publishedTimestamp": 1512329801,
+        "creatorId": 38412302,
+        "wordLang": "en",
+        "defLang": "zh-pi",
+        "title": "FIN Chapter 12",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 83,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/249263614/fin-chapter-12-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 38412302,
+          "username": "Abby_Scorsone8",
+          "timestamp": 1456851796,
+          "lastModified": 1675376882,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://assets.quizlet.com/static/i/animals/113.e4b7e1c4ed27afa.jpg",
+          "timeZone": "America/Chicago",
+          "daysSinceSignup": 3844,
+          "firstName": "Abby",
+          "lastName": "Scorsone"
+        }
+      },
+      {
+        "id": 1048023920,
+        "timestamp": 1748196497,
+        "lastModified": 1748196529,
+        "publishedTimestamp": 1748196497,
+        "creatorId": 356774384,
+        "wordLang": "zh-TW",
+        "defLang": "en",
+        "title": "Mandarin Matrix Novice 2 Unit 10",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 17,
+        "hasImages": true,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/1048023920/mandarin-matrix-novice-2-unit-10-flash-cards/",
+        "_thumbnailUrl": "https://o.quizlet.com/i/2ovNS9SefWresRM5Og-nGw_m.jpg",
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "magicNoteUuid": "9567ffc2-f9fa-478c-8783-77e56b506c48",
+        "createdByFeature": "magic_notes",
+        "_creator": {
+          "id": 356774384,
+          "username": "fwalsh598",
+          "timestamp": 1718660921,
+          "lastModified": 1788965343,
+          "type": 2,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 1,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocLuI26loXuRXmICayX9hDXDdsTlqwA6MiLkWWVL2a6kdY09XGRV=s96-c?sz=150",
+          "timeZone": "America/Los_Angeles",
+          "daysSinceSignup": 813,
+          "firstName": "Fujui",
+          "lastName": "Walsh"
+        }
+      }
+    ],
+    "recommendedBehavioralTextbooks": null,
+    "recommendedPracticeTests": [],
+    "recommendedStudyGuides": [
+      {
+        "creator": {
+          "id": 367761401,
+          "username": "gcg2135",
+          "timestamp": 1727230056,
+          "lastModified": 1787120457,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocLCELdRTRgm7Q6SQlhp45MswlWUmXlVkYTgGI89NbMAkQTXt-o=s96-c?sz=150",
+          "timeZone": "America/New_York",
+          "daysSinceSignup": 714,
+          "firstName": "Gabrielle",
+          "lastName": "Gregory"
+        },
+        "link": "/study-guides/basic-chinese-questions-and-translations-a22d6323-1fa9-45e9-81c7-e316848ba583",
+        "uuid": "a22d6323-1fa9-45e9-81c7-e316848ba583",
+        "title": "Basic Chinese Questions and Translations"
+      },
+      {
+        "creator": {
+          "id": 319845833,
+          "username": "quizlette44032412",
+          "timestamp": 1694038648,
+          "lastModified": 1788879892,
+          "type": 1,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocK1cZEFwa6D56F-UItyMhNtzDizSZfr1jXxiuk2JcaVXDLuUQ=s96-c?sz=150",
+          "timeZone": "America/New_York",
+          "daysSinceSignup": 1098
+        },
+        "link": "/study-guides/chinese-grade-8-time-when-expressions-and-date-vocabulary-e051bc5b-15d7-4912-a626-9d5ccf91b6b4",
+        "uuid": "e051bc5b-15d7-4912-a626-9d5ccf91b6b4",
+        "title": "Chinese Grade 8: Time-When Expressions and Date Vocabulary"
+      },
+      {
+        "creator": {
+          "id": 333731969,
+          "username": "davidniu22",
+          "timestamp": 1701185753,
+          "lastModified": 1771885262,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://assets.quizlet.com/static/i/animals/125.a46eeeaa1617163.jpg",
+          "timeZone": "America/New_York",
+          "daysSinceSignup": 1016
+        },
+        "link": "/study-guides/-df770416-7360-4d61-9ba9-982be770d98b",
+        "uuid": "df770416-7360-4d61-9ba9-982be770d98b",
+        "title": "大学课程与个人发展关键词"
+      },
+      {
+        "creator": {
+          "id": 362653499,
+          "username": "lnormanly28",
+          "timestamp": 1724985863,
+          "lastModified": 1788454618,
+          "type": 1,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocId0uoDvaodDZvN4WbUgG-NC5utQJLkB4vIQP0PGDZ7ZChLTw=s96-c?sz=150",
+          "timeZone": "America/Los_Angeles",
+          "daysSinceSignup": 740
+        },
+        "link": "/study-guides/common-chinese-phrases-for-phone-conversations-22a591ac-0ebc-4dbe-80c2-f9bf43f1c0df",
+        "uuid": "22a591ac-0ebc-4dbe-80c2-f9bf43f1c0df",
+        "title": "Common Chinese Phrases for Phone Conversations"
+      },
+      {
+        "creator": {
+          "id": 97847585,
+          "username": "yuhanchen7",
+          "timestamp": 1538317034,
+          "lastModified": 1701758548,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://up.quizlet.com/1m97oh-DHVMk-256s.jpg",
+          "timeZone": "America/New_York",
+          "daysSinceSignup": 2901,
+          "firstName": "Wenqi",
+          "lastName": "Zhou"
+        },
+        "link": "/study-guides/chinese-vocabulary-flashcards-6bc0c3f9-2700-4942-9b4d-36bbeb41df91",
+        "uuid": "6bc0c3f9-2700-4942-9b4d-36bbeb41df91",
+        "title": "Chinese Vocabulary Flashcards"
+      },
+      {
+        "creator": {
+          "id": 130782092,
+          "username": "MJAnd",
+          "timestamp": 1562082554,
+          "lastModified": 1761240483,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://assets.quizlet.com/static/i/animals/117.3cd40b021ac604f.jpg",
+          "timeZone": "America/Chicago",
+          "daysSinceSignup": 2626
+        },
+        "link": "/study-guides/african-countries-in-chinese-8ce2dfe3-abee-4e41-91ff-0e8c26457a0c",
+        "uuid": "8ce2dfe3-abee-4e41-91ff-0e8c26457a0c",
+        "title": "African Countries in Chinese"
+      },
+      {
+        "creator": {
+          "id": 129212867,
+          "username": "mrus06",
+          "timestamp": 1559966311,
+          "lastModified": 1788884123,
+          "type": 1,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://up.quizlet.com/24xhab-GfWbC-256s.jpg",
+          "timeZone": "America/Denver",
+          "daysSinceSignup": 2650
+        },
+        "link": "/study-guides/vocabulary-for-cls-300-class-in-dalian-2025-e3ce5b55-e211-4ab0-9a9e-56975088c0ba",
+        "uuid": "e3ce5b55-e211-4ab0-9a9e-56975088c0ba",
+        "title": "Vocabulary for CLS 300 Class in Dalian 2025"
+      },
+      {
+        "creator": {
+          "id": 272615326,
+          "username": "quizlette59753239",
+          "timestamp": 1656759591,
+          "lastModified": 1784435404,
+          "type": 1,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://assets.quizlet.com/static/i/animals/113.e4b7e1c4ed27afa.jpg",
+          "timeZone": "Asia/Shanghai",
+          "daysSinceSignup": 1530
+        },
+        "link": "/study-guides/advanced-vocabulary-words-for-descriptive-writing-and-analysis-aeda5ec3-092f-4ef9-b297-5ab254f63415",
+        "uuid": "aeda5ec3-092f-4ef9-b297-5ab254f63415",
+        "title": "Advanced Vocabulary: Words for Descriptive Writing and Analysis"
+      },
+      {
+        "creator": {
+          "id": 137942330,
+          "username": "azilo2026",
+          "timestamp": 1568137609,
+          "lastModified": 1778096648,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://assets.quizlet.com/static/i/animals/121.86d7c15a5a6be0f.jpg",
+          "timeZone": "America/New_York",
+          "daysSinceSignup": 2555
+        },
+        "link": "/study-guides/chinese-vocabulary-and-grammar-flashcards-6237bf29-a8a6-4c4a-8787-8b331e9ca5aa",
+        "uuid": "6237bf29-a8a6-4c4a-8787-8b331e9ca5aa",
+        "title": "Chinese Vocabulary and Grammar Flashcards"
+      },
+      {
+        "creator": {
+          "id": 179231638,
+          "username": "prerati",
+          "timestamp": 1595788662,
+          "lastModified": 1761262493,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/AAcHTtcjoDZmPHIpgAbqWtVkL1LkCzHEwztw2E7kV_waLFnHMg_v=s96-c?sz=150",
+          "timeZone": "Asia/Bangkok",
+          "daysSinceSignup": 2235
+        },
+        "link": "/study-guides/kfcs-sinofication-and-cultural-adaptation-concepts-5251e2ea-281b-420d-a723-8e71351b4e1c",
+        "uuid": "5251e2ea-281b-420d-a723-8e71351b4e1c",
+        "title": "KFC's Sinofication and Cultural Adaptation Concepts"
+      },
+      {
+        "creator": {
+          "id": 45277016,
+          "username": "myrayousadeque",
+          "timestamp": 1473026486,
+          "lastModified": 1778075246,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocJeM8CU1sUS7epsvSJxTeBbEE9Eb_6nYH9iKhcX_2lcNOGt5E6TcQ=s96-c?sz=150",
+          "timeZone": "America/Chicago",
+          "daysSinceSignup": 3656,
+          "firstName": "Myra",
+          "lastName": "Sadeque"
+        },
+        "link": "/study-guides/chinese-vocabulary-for-relationships-and-social-interactions-2b977a4a-dd6d-4dd7-834c-dece69610764",
+        "uuid": "2b977a4a-dd6d-4dd7-834c-dece69610764",
+        "title": "Chinese Vocabulary for Relationships and Social Interactions"
+      }
+    ],
+    "recommendedTextbooks": null,
+    "relatedQuestions": null,
+    "relevantSetMembershipsMap": [
+      {
+        "path": "/class/15163686/",
+        "title": "LC211",
+        "id": 15163686
+      }
+    ],
+    "selectedOnly": false,
+    "set": {
+      "id": 520929933,
+      "timestamp": 1598539874,
+      "lastModified": 1598545940,
+      "publishedTimestamp": 1598545940,
+      "creatorId": 182188126,
+      "wordLang": "zh-CN",
+      "defLang": "en",
+      "title": "Integrated Chinese 3 - Lesson 1",
+      "passwordUse": false,
+      "passwordEdit": false,
+      "accessType": 2,
+      "accessCodePrefix": null,
+      "description": "",
+      "numTerms": 20,
+      "hasImages": false,
+      "parentId": 417280790,
+      "creationSource": 1,
+      "privacyLockStatus": 0,
+      "hasDiagrams": false,
+      "_webUrl": "https://quizlet.com/520929933/integrated-chinese-3-lesson-1-flash-cards/",
+      "_thumbnailUrl": null,
+      "price": null,
+      "mcqCount": 0,
+      "purchasableType": 0
+    },
+    "setLocale": null,
+    "setSlug": "integrated-chinese-3-lesson-1",
+    "setUnlockedForLearnAndTestPaywall": false,
+    "setPaths": {
+      "delete": "/520929933/delete",
+      "edit": "/520929933/edit",
+      "editBottom": "/520929933/edit#addRow",
+      "editWithPassword": "/520929933/edit-screen?inline=1",
+      "info": "/520929933/info?setId=520929933&setSlug=integrated-chinese-3-lesson-1-flash-cards",
+      "print": "/520929933/print",
+      "remove": "/qzadmin/sets/520929933/remove",
+      "scores": "/520929933/scores?funnelUUID=096bd38e-2425-4864-a5b2-38ededde24a9&setId=520929933&setSlug=integrated-chinese-3-lesson-1-flash-cards",
+      "show": "/520929933/integrated-chinese-3-lesson-1-flash-cards/?funnelUUID=096bd38e-2425-4864-a5b2-38ededde24a9&setId=520929933&setSlug=integrated-chinese-3-lesson-1-flash-cards"
+    },
+    "setsFromCreator": null,
+    "setsFromFolder": null,
+    "shareUrls": {
+      "emailUrl": "/webapi/3.4/set/520929933/email"
+    },
+    "shouldRemoveMiniFlashcards": false,
+    "shouldRenderBreadcrumbsSchema": null,
+    "shouldShowAd": true,
+    "shouldShowAdminTools": false,
+    "shouldShowEdgyDataModal": false,
+    "shouldShowBreadcrumbs": null,
+    "shouldShowCardsPreview": false,
+    "shouldShowCardTooltip": false,
+    "shouldShowClassProgressUpsellModalOnLoad": false,
+    "shouldShowExplanationsValueModal": false,
+    "shouldShowHighQualityPracticeQuestions": true,
+    "shouldShowSubjectConceptBanner": true,
+    "shouldShowLanguageLearningBanner": true,
+    "shouldShowProgressReset": false,
+    "shouldShowReferrerModal": false,
+    "shouldShowUpgradeReminderModal": false,
+    "upgradeReminderModalVariant": null,
+    "shouldShowRichText": true,
+    "shouldShowSetPagePracticeQuestions": false,
+    "shouldShowLearnPracticeQuestionsBelowTheFold": true,
+    "shouldShowShareOptions": true,
+    "shouldShowSignupCurtain": false,
+    "shouldShowSignupWall": false,
+    "shouldShowStudyGuideRecs": true,
+    "shouldShowStudyModeButtonHoverCoachmarks": true,
+    "shouldShowTeacherStudyModeButtonHoverCoachmarks": false,
+    "shouldShowTeacherOnboardingCoachmarks": false,
+    "shouldShowStudyValuePropUpsellModal": false,
+    "studyValueUpsellOpenedByProductRevamp": false,
+    "shouldShowTextbookRecommendations": true,
+    "shouldUseInternationalUrl": false,
+    "showVerifiedUI": false,
+    "similarSets": null,
+    "socialProofMessage": {
+      "numStudiers": 8,
+      "time": 1,
+      "timeUnit": "DAY",
+      "largeTimeRange": false,
+      "schoolId": null,
+      "schoolName": null,
+      "studiableId": 520929933
+    },
+    "studiableItemsDefinitionSideMaxLength": 1850,
+    "studiableItemsWordSideMaxLength": 930,
+    "studiableMetadataByType": {
+      "4": {
+        "studiableMetadata": [
+          {
+            "studiableContainerId": 520929933,
+            "studiableContainerType": 1,
+            "studiableItemId": 18684164186,
+            "studiableItemType": 2,
+            "modelVersion": "7.1.47",
+            "predictionTimestamp": 1788974437,
+            "type": 4,
+            "answerCardSideLabel": "word",
+            "distractors": [],
+            "generators": []
+          }
+        ],
+        "studiableMetadataStatus": 0
+      },
+      "5": {
+        "studiableMetadata": [
+          {
+            "studiableContainerId": 520929933,
+            "studiableContainerType": 1,
+            "studiableItemId": 18684164167,
+            "studiableItemType": 2,
+            "modelVersion": "5.0.67",
+            "predictionTimestamp": 1788363997,
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 520929933,
+            "studiableContainerType": 1,
+            "studiableItemId": 18684164168,
+            "studiableItemType": 2,
+            "modelVersion": "5.0.67",
+            "predictionTimestamp": 1788363997,
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 520929933,
+            "studiableContainerType": 1,
+            "studiableItemId": 18684164169,
+            "studiableItemType": 2,
+            "modelVersion": "5.0.67",
+            "predictionTimestamp": 1788363997,
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 520929933,
+            "studiableContainerType": 1,
+            "studiableItemId": 18684164170,
+            "studiableItemType": 2,
+            "modelVersion": "5.0.67",
+            "predictionTimestamp": 1788363997,
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 520929933,
+            "studiableContainerType": 1,
+            "studiableItemId": 18684164171,
+            "studiableItemType": 2,
+            "modelVersion": "5.0.67",
+            "predictionTimestamp": 1788363997,
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 520929933,
+            "studiableContainerType": 1,
+            "studiableItemId": 18684164172,
+            "studiableItemType": 2,
+            "modelVersion": "5.0.67",
+            "predictionTimestamp": 1788363997,
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 520929933,
+            "studiableContainerType": 1,
+            "studiableItemId": 18684164173,
+            "studiableItemType": 2,
+            "modelVersion": "5.0.67",
+            "predictionTimestamp": 1788363997,
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 520929933,
+            "studiableContainerType": 1,
+            "studiableItemId": 18684164174,
+            "studiableItemType": 2,
+            "modelVersion": "5.0.67",
+            "predictionTimestamp": 1788363997,
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 520929933,
+            "studiableContainerType": 1,
+            "studiableItemId": 18684164175,
+            "studiableItemType": 2,
+            "modelVersion": "5.0.67",
+            "predictionTimestamp": 1788363997,
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 520929933,
+            "studiableContainerType": 1,
+            "studiableItemId": 18684164176,
+            "studiableItemType": 2,
+            "modelVersion": "5.0.67",
+            "predictionTimestamp": 1788363997,
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 520929933,
+            "studiableContainerType": 1,
+            "studiableItemId": 18684164177,
+            "studiableItemType": 2,
+            "modelVersion": "5.0.67",
+            "predictionTimestamp": 1788363997,
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 520929933,
+            "studiableContainerType": 1,
+            "studiableItemId": 18684164178,
+            "studiableItemType": 2,
+            "modelVersion": "5.0.67",
+            "predictionTimestamp": 1788363997,
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 520929933,
+            "studiableContainerType": 1,
+            "studiableItemId": 18684164179,
+            "studiableItemType": 2,
+            "modelVersion": "5.0.67",
+            "predictionTimestamp": 1788363997,
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 520929933,
+            "studiableContainerType": 1,
+            "studiableItemId": 18684164180,
+            "studiableItemType": 2,
+            "modelVersion": "5.0.67",
+            "predictionTimestamp": 1788363997,
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 520929933,
+            "studiableContainerType": 1,
+            "studiableItemId": 18684164181,
+            "studiableItemType": 2,
+            "modelVersion": "5.0.67",
+            "predictionTimestamp": 1788363997,
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 520929933,
+            "studiableContainerType": 1,
+            "studiableItemId": 18684164182,
+            "studiableItemType": 2,
+            "modelVersion": "5.0.67",
+            "predictionTimestamp": 1788363997,
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 520929933,
+            "studiableContainerType": 1,
+            "studiableItemId": 18684164183,
+            "studiableItemType": 2,
+            "modelVersion": "5.0.67",
+            "predictionTimestamp": 1788363997,
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 520929933,
+            "studiableContainerType": 1,
+            "studiableItemId": 18684164184,
+            "studiableItemType": 2,
+            "modelVersion": "5.0.67",
+            "predictionTimestamp": 1788363997,
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 520929933,
+            "studiableContainerType": 1,
+            "studiableItemId": 18684164185,
+            "studiableItemType": 2,
+            "modelVersion": "5.0.67",
+            "predictionTimestamp": 1788363997,
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 520929933,
+            "studiableContainerType": 1,
+            "studiableItemId": 18684164186,
+            "studiableItemType": 2,
+            "modelVersion": "5.0.67",
+            "predictionTimestamp": 1788363997,
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word",
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          }
+        ],
+        "studiableMetadataStatus": 2
+      },
+      "6": {
+        "studiableMetadata": [],
+        "studiableMetadataStatus": 0
+      }
+    },
+    "studyGuideData": null,
+    "subjectTaxonomyLineage": [
+      "Languages",
+      "Chinese - English"
+    ],
+    "teacherOnboardingCoachmarkType": null,
+    "termIdToIsSelectedMap": {
+      "18684164167": false,
+      "18684164168": false,
+      "18684164169": false,
+      "18684164170": false,
+      "18684164171": false,
+      "18684164172": false,
+      "18684164173": false,
+      "18684164174": false,
+      "18684164175": false,
+      "18684164176": false,
+      "18684164177": false,
+      "18684164178": false,
+      "18684164179": false,
+      "18684164180": false,
+      "18684164181": false,
+      "18684164182": false,
+      "18684164183": false,
+      "18684164184": false,
+      "18684164185": false,
+      "18684164186": false
+    },
+    "termIdToQuestionMap": [],
+    "termSort": "missed",
+    "topCreatorLabel": null,
+    "user": {
+      "id": 423434763,
+      "username": "akazibu",
+      "timestamp": 1769112920,
+      "lastModified": 1788974437,
+      "type": 0,
+      "isLocked": false,
+      "selfIdentifiedTeacherStatus": 2,
+      "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocJKvQzZkRuN2rlSht3jXMuvo7uXk3Bs6YdmpTj5jLuIhwMcmw=s96-c?sz=150",
+      "timeZone": "America/New_York",
+      "daysSinceSignup": 229,
+      "firstName": "Abrar",
+      "lastName": "Kazi",
+      "_isConfirmationRequired": false,
+      "birthYear": 2007,
+      "birthMonth": 1,
+      "birthDay": 31,
+      "signUpTime": 1769112920,
+      "countryCode": "us",
+      "signupCountryCode": "us",
+      "isConfirmed": true,
+      "profileImageId": 1,
+      "email": "akazibu@bu.edu",
+      "phoneNumber": null,
+      "whatsappNumber": null,
+      "_hasPassword": false,
+      "_hasFacebook": false,
+      "_hasGoogle": true,
+      "_hasApple": false,
+      "_canChangeUsername": true,
+      "_canSendDataFromGTMToAdNetworks": true,
+      "_isEligibleForFreeTrial": true,
+      "_isEligibleForStudentReferralsProgram": true,
+      "isRetargetable": true,
+      "_isUnderAge": false,
+      "_isUnderAgeForAds": false,
+      "_isUnderAgeOrInCoppaTransition": false,
+      "_needsChildDirectedTreatment": false,
+      "isSelfLearner": false,
+      "_hasCompletedOnboarding": true,
+      "_featurePlanType": null,
+      "_isInFreeTrial": false,
+      "webLocale": "en-au",
+      "mobileLocale": null,
+      "userLocalePreference": null,
+      "srsNotificationTime": 28800,
+      "srsPushNotificationsEnabled": false,
+      "notificationPreferences": {
+        "streaks_and_badges": [
+          "email"
+        ],
+        "study_reminders": [
+          "email"
+        ],
+        "features_tips_challenges": [
+          "email"
+        ],
+        "sales_giveaways_promotions": [
+          "email"
+        ]
+      }
+    },
+    "userRating": null,
+    "userSchools": [
+      {
+        "id": 3037088,
+        "name": "Boston University",
+        "creatorId": null,
+        "city": "Boston",
+        "state": "MA",
+        "country": "United States",
+        "countryCode": "us",
+        "latitude": 42.351118,
+        "longitude": -71.107942,
+        "level": 3,
+        "lastModified": 1593717753
+      }
+    ],
+    "wantsAchievementNotification": false,
+    "yourStatsChunks": {
+      "stillLearning": {
+        "title": "Still learning",
+        "subtitle": "You've begun learning these terms. Keep up the good work!",
+        "termIds": [
+          18684164167
+        ],
+        "shortName": "stillLearning"
+      },
+      "mastered": {
+        "title": "Mastered",
+        "subtitle": "You know these terms very well!",
+        "termIds": [],
+        "shortName": "mastered"
+      },
+      "notStudied": {
+        "title": "Not studied",
+        "subtitle": "You haven't studied these terms yet.",
+        "termIds": [
+          18684164168,
+          18684164169,
+          18684164170,
+          18684164171,
+          18684164172,
+          18684164173,
+          18684164174,
+          18684164175,
+          18684164176,
+          18684164177,
+          18684164178,
+          18684164179,
+          18684164180,
+          18684164181,
+          18684164182,
+          18684164183,
+          18684164184,
+          18684164185,
+          18684164186
+        ],
+        "shortName": "notStudied"
+      }
+    },
+    "shouldShowBlastGame": true,
+    "shouldShowBlocksGame": true,
+    "shouldShowCharmsGame": true,
+    "shouldShowClassSessionJoinToast": false,
+    "shouldSeeNewSetPageNavTeacher": false,
+    "questionEventLogger": {},
+    "signupMetadata": {},
+    "isAddToClassModalOpen": false,
+    "isAddToFolderModalOpen": false,
+    "isCreateClassModalOpen": false,
+    "isCreateFolderModalOpen": false,
+    "isEmbedModalOpen": false,
+    "isExportModalOpen": false,
+    "isFirstSetSaveModalOpen": false,
+    "isMobileOnrampModalOpen": false,
+    "isNewSetShare": false,
+    "isPrivateSetModalOpen": false,
+    "isProgressResetModalOpen": false,
+    "isShareModalOpen": false,
+    "isSharingOnFirefly": false,
+    "isSignupModalOpen": false,
+    "isStudyModeBlocksCoachmarkOpen": false,
+    "isStudyModeButtonCoachmarkDismissed": false,
+    "isRewardedPassModalOpen": false,
+    "fullStoryAttributesStr": null,
+    "gtmOverrideStrForPage": "{\"locale\":\"en-gb\",\"abTests\":\"EsStudyPathing[default,subscriptions]:control,GoogleFedCMFeatureFlag:fedCMOptIn,GroupOrdersImprovedLooseLink:experiment,MagicLinkOnUserConfirmation:experiment1,NewGroupPurchasePageFeatureFlag:experiment,TestPaywallUI[default,subscriptions]:control,CopyABTestSetPageStudentActivityLiveGamesCtaSWnCw:variation1,CopyABTestStudyModeNameQChatEXMKM:control\",\"loginSource\":\"google\",\"isLoggedIn\":true,\"selfIdentifiedUserType\":\"student\",\"isTeacherSignUp\":false,\"userUpgradeType\":\"free\",\"isVerifiedCreator\":false,\"renderEnvironment\":\"renderer\",\"uid\":\"-413322872072912820\",\"userId\":423434763,\"canSendDataBasedOnAgeAndCountry\":true,\"countryCode\":\"us\",\"regionCode\":\"us-ma\",\"isUnderAge\":false,\"isUnderEighteen\":false,\"isUnderSixteen\":false,\"isUnderThirteen\":false,\"firstName\":\"Abrar\",\"lastName\":\"Kazi\",\"phoneNumber\":null,\"isRetargetable\":true,\"daysSinceSignup\":229,\"customerEmail\":\"9a8d6037c59843fb33b2dc0fbbf377bedab39cc38ef1fd58c82fcd880da573f7\",\"email\":\"akazibu@bu.edu\",\"studyableTitle\":\"Integrated Chinese 3 - Lesson 1\",\"studyableId\":520929933,\"studyableType\":\"set\",\"hasDiagrams\":false,\"advertising_cookies\":true,\"analytics\":true}",
+    "htmlHeadData": {
+      "canonicalUrl": "https://quizlet.com/471376996/ic-l2p1-l1-flash-cards/",
+      "metaDescription": "Study with Quizlet and memorise flashcards containing terms like 开学, 新生, 辆 and others.",
+      "robotsMetaTag": "noindex, follow",
+      "setTitle": "Integrated Chinese 3 - Lesson 1 Flashcards",
+      "contentLanguage": null,
+      "htmlLang": null,
+      "socialImageUrl": "https://assets.quizlet.com/static/i/share/share-set.1f4740293bbc750.png"
+    },
+    "isCreatorOnly": false,
+    "isEditableWithPassword": false,
+    "shouldUseSearchEngineSSRTranslation": true,
+    "shouldShowThankYouModal": false,
+    "sourceStudyGuide": null,
+    "wantsScheduledReviewReminders": true,
+    "uid": "-413322872072912820",
+    "deviceCategory": "desktop"
+  },
+  "cards": {
+    "ads": {
+      "shouldShowCardIntervalAd": false,
+      "cardsView": 1,
+      "isRenderingRva": false,
+      "isRewarded": false,
+      "isMwebAdEnabled": false,
+      "isInMLAdFrequencyPredictionRedTable": false,
+      "flashcardAdCooldownMs": null,
+      "numCardsToShowAdsOverride": null,
+      "mwebAdsState": {
+        "areCardsMovingForward": true,
+        "isRenderingMwebAd": false,
+        "isShowingCardsMwebAd": false,
+        "shouldLoadCardsMwebAd": false,
+        "shouldPreloadMwebAd": false,
+        "isAdNoFill": false
+      }
+    },
+    "engine": {
+      "adsState": null,
+      "isFlipped": false,
+      "modeState": {
+        "question": {
+          "front": {
+            "attributes": [
+              {
+                "type": "TextAttribute",
+                "plainText": "new student",
+                "languageCode": "en",
+                "richText": null,
+                "mediaType": 1
+              },
+              {
+                "type": "AudioAttribute",
+                "url": "https://quizlet.com/v1/tts/en.mp3?v=2&b=bmV3IHN0dWRlbnQ&s=YjRjNTUxNzY",
+                "slowUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=bmV3IHN0dWRlbnQ&s=YjRjNTUxNzY&speed=70",
+                "mediaType": 4
+              }
+            ]
+          },
+          "back": {
+            "attributes": [
+              {
+                "type": "TextAttribute",
+                "plainText": "新生",
+                "languageCode": "zh-CN",
+                "richText": null,
+                "mediaType": 1
+              },
+              {
+                "type": "AudioAttribute",
+                "url": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5paw55Sf&s=N2UwYjEwZmY&sublanguage=cn",
+                "slowUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5paw55Sf&s=N2UwYjEwZmY&sublanguage=cn&speed=70",
+                "mediaType": 4
+              }
+            ]
+          },
+          "hint": null,
+          "metadata": {
+            "studiableItemId": 18684164168,
+            "promptSide": "definition",
+            "answerSide": "word",
+            "optionGenerationSource": null,
+            "questionScoringInferenceMetadata": null,
+            "questionStudiableMetadata": {
+              "unavailableForContainer": [
+                4,
+                6
+              ],
+              "notReadyForContainer": [],
+              "readyForContainer": [
+                5
+              ],
+              "presentForItem": [
+                5
+              ],
+              "staleForItem": []
+            },
+            "studiableMetadataVersions": {
+              "4": "7.1.47",
+              "5": "5.0.67"
+            },
+            "meteringData": null
+          },
+          "questionType": 16
+        },
+        "hasActionAvailableToUndo": true,
+        "progress": {
+          "totalProgress": {
+            "masteryBuckets": {
+              "type": "FlashcardsMasteryBuckets",
+              "remaining": [
+                18684164168,
+                18684164169,
+                18684164170,
+                18684164171,
+                18684164172,
+                18684164173,
+                18684164174,
+                18684164175,
+                18684164176,
+                18684164177,
+                18684164178,
+                18684164179,
+                18684164180,
+                18684164181,
+                18684164182,
+                18684164183,
+                18684164184,
+                18684164185,
+                18684164186
+              ],
+              "completed": [
+                18684164167
+              ]
+            },
+            "studyProgress": 5
+          },
+          "currentRound": 1,
+          "total": {
+            "completed": 1,
+            "stillLearning": 0,
+            "total": 20
+          },
+          "cycle": {
+            "completed": 1,
+            "stillLearning": 0,
+            "total": 20
+          },
+          "round": {
+            "completed": 1,
+            "stillLearning": 0,
+            "total": 20
+          },
+          "roundProgress": {
+            "isRoundComplete": false,
+            "isCycleComplete": false,
+            "numCardsCompleted": 1,
+            "totalNumCardsCompleted": 1,
+            "numCardsMovedToNextCycle": 0,
+            "totalNumCardsMovedToNextCycle": 0,
+            "numCards": 20,
+            "roundProgressPercent": 0.05
+          }
+        },
+        "shuffleRandomSeed": 1
+      },
+      "isEngineInitialized": false
+    },
+    "onboarding": {
+      "numCardsSeen": 0
+    },
+    "ui": {
+      "answerHistory": {
+        "starred": [],
+        "unstarred": [
+          {
+            "type": "NSidedCardAnswer",
+            "correctness": 2,
+            "round": 1,
+            "studiableItemId": 18684164167,
+            "studyModeType": 2,
+            "timestamp": 1788369315,
+            "promptSideIds": [
+              2
+            ],
+            "answerSideIds": [
+              1
+            ]
+          }
+        ]
+      },
+      "cardsOrigin": "set_page",
+      "errors": {
+        "editStudiableItem": null
+      },
+      "funnelUuid": "096bd38e-2425-4864-a5b2-38ededde24a9",
+      "hasInteractedWithMode": false,
+      "autoplay": {
+        "isOn": false
+      },
+      "isEditing": false,
+      "isEligibleToSeeTeacherOnboardingPreviewCard": false,
+      "isFlipped": false,
+      "isRequestingEdit": false,
+      "practiceQuestionsDistractors": [],
+      "isInMiniFCV2": false,
+      "hasAnsweredAnyCard": false
+    }
+  },
+  "cardsAudioMode": {
+    "isAudioPlaying": false
+  },
+  "audioPlayback": {
+    "playingAudioId": null,
+    "lastPlayedQueue": [],
+    "playQueue": [],
+    "preloadQueue": []
+  },
+  "studyModesCommon": {
+    "engine": {
+      "answerHistory": [],
+      "gradedAnswer": null,
+      "instance": null,
+      "isStudyEnginePolling": null,
+      "roundProgress": null,
+      "studyStep": null,
+      "taskProgress": null,
+      "taskRoundProgress": null,
+      "taskSequenceProgress": null,
+      "totalProgress": null
+    },
+    "gradings": {
+      "answerGradedByLongtextGradingService": false,
+      "isEligibleForSmartGrading": false,
+      "isGrading": false
+    },
+    "logging": {
+      "embedType": "internal",
+      "funnelUUID": "096bd38e-2425-4864-a5b2-38ededde24a9",
+      "config": null,
+      "logPageActionFn": null,
+      "logNavigationEventFn": null,
+      "modeType": 2,
+      "selectedOnly": false,
+      "studyableId": 520929933,
+      "studyableType": 1,
+      "studySessionId": null,
+      "uid": "",
+      "user": null
+    },
+    "studiableData": {
+      "studiableMetadataByType": {
+        "4": {
+          "studiableMetadata": [
+            {
+              "studiableContainerId": 520929933,
+              "studiableContainerType": 1,
+              "studiableItemId": 18684164186,
+              "studiableItemType": 2,
+              "modelVersion": "7.1.47",
+              "predictionTimestamp": 1788974437,
+              "type": 4,
+              "answerCardSideLabel": "word",
+              "distractors": [],
+              "generators": []
+            }
+          ],
+          "studiableMetadataStatus": 0
+        },
+        "5": {
+          "studiableMetadata": [
+            {
+              "studiableContainerId": 520929933,
+              "studiableContainerType": 1,
+              "studiableItemId": 18684164167,
+              "studiableItemType": 2,
+              "modelVersion": "5.0.67",
+              "predictionTimestamp": 1788363997,
+              "type": 5,
+              "multipleChoice": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "written": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "revealSelfAssessment": {
+                "answerSidePriorities": [
+                  "definition",
+                  "word"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              }
+            },
+            {
+              "studiableContainerId": 520929933,
+              "studiableContainerType": 1,
+              "studiableItemId": 18684164168,
+              "studiableItemType": 2,
+              "modelVersion": "5.0.67",
+              "predictionTimestamp": 1788363997,
+              "type": 5,
+              "multipleChoice": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "written": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "revealSelfAssessment": {
+                "answerSidePriorities": [
+                  "definition",
+                  "word"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              }
+            },
+            {
+              "studiableContainerId": 520929933,
+              "studiableContainerType": 1,
+              "studiableItemId": 18684164169,
+              "studiableItemType": 2,
+              "modelVersion": "5.0.67",
+              "predictionTimestamp": 1788363997,
+              "type": 5,
+              "multipleChoice": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "written": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "revealSelfAssessment": {
+                "answerSidePriorities": [
+                  "definition",
+                  "word"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              }
+            },
+            {
+              "studiableContainerId": 520929933,
+              "studiableContainerType": 1,
+              "studiableItemId": 18684164170,
+              "studiableItemType": 2,
+              "modelVersion": "5.0.67",
+              "predictionTimestamp": 1788363997,
+              "type": 5,
+              "multipleChoice": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "written": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "revealSelfAssessment": {
+                "answerSidePriorities": [
+                  "definition",
+                  "word"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              }
+            },
+            {
+              "studiableContainerId": 520929933,
+              "studiableContainerType": 1,
+              "studiableItemId": 18684164171,
+              "studiableItemType": 2,
+              "modelVersion": "5.0.67",
+              "predictionTimestamp": 1788363997,
+              "type": 5,
+              "multipleChoice": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "written": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "revealSelfAssessment": {
+                "answerSidePriorities": [
+                  "definition",
+                  "word"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              }
+            },
+            {
+              "studiableContainerId": 520929933,
+              "studiableContainerType": 1,
+              "studiableItemId": 18684164172,
+              "studiableItemType": 2,
+              "modelVersion": "5.0.67",
+              "predictionTimestamp": 1788363997,
+              "type": 5,
+              "multipleChoice": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "written": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "revealSelfAssessment": {
+                "answerSidePriorities": [
+                  "definition",
+                  "word"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              }
+            },
+            {
+              "studiableContainerId": 520929933,
+              "studiableContainerType": 1,
+              "studiableItemId": 18684164173,
+              "studiableItemType": 2,
+              "modelVersion": "5.0.67",
+              "predictionTimestamp": 1788363997,
+              "type": 5,
+              "multipleChoice": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "written": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "revealSelfAssessment": {
+                "answerSidePriorities": [
+                  "definition",
+                  "word"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              }
+            },
+            {
+              "studiableContainerId": 520929933,
+              "studiableContainerType": 1,
+              "studiableItemId": 18684164174,
+              "studiableItemType": 2,
+              "modelVersion": "5.0.67",
+              "predictionTimestamp": 1788363997,
+              "type": 5,
+              "multipleChoice": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "written": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "revealSelfAssessment": {
+                "answerSidePriorities": [
+                  "definition",
+                  "word"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              }
+            },
+            {
+              "studiableContainerId": 520929933,
+              "studiableContainerType": 1,
+              "studiableItemId": 18684164175,
+              "studiableItemType": 2,
+              "modelVersion": "5.0.67",
+              "predictionTimestamp": 1788363997,
+              "type": 5,
+              "multipleChoice": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "written": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "revealSelfAssessment": {
+                "answerSidePriorities": [
+                  "definition",
+                  "word"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              }
+            },
+            {
+              "studiableContainerId": 520929933,
+              "studiableContainerType": 1,
+              "studiableItemId": 18684164176,
+              "studiableItemType": 2,
+              "modelVersion": "5.0.67",
+              "predictionTimestamp": 1788363997,
+              "type": 5,
+              "multipleChoice": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "written": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "revealSelfAssessment": {
+                "answerSidePriorities": [
+                  "definition",
+                  "word"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              }
+            },
+            {
+              "studiableContainerId": 520929933,
+              "studiableContainerType": 1,
+              "studiableItemId": 18684164177,
+              "studiableItemType": 2,
+              "modelVersion": "5.0.67",
+              "predictionTimestamp": 1788363997,
+              "type": 5,
+              "multipleChoice": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "written": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "revealSelfAssessment": {
+                "answerSidePriorities": [
+                  "definition",
+                  "word"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              }
+            },
+            {
+              "studiableContainerId": 520929933,
+              "studiableContainerType": 1,
+              "studiableItemId": 18684164178,
+              "studiableItemType": 2,
+              "modelVersion": "5.0.67",
+              "predictionTimestamp": 1788363997,
+              "type": 5,
+              "multipleChoice": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "written": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "revealSelfAssessment": {
+                "answerSidePriorities": [
+                  "definition",
+                  "word"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              }
+            },
+            {
+              "studiableContainerId": 520929933,
+              "studiableContainerType": 1,
+              "studiableItemId": 18684164179,
+              "studiableItemType": 2,
+              "modelVersion": "5.0.67",
+              "predictionTimestamp": 1788363997,
+              "type": 5,
+              "multipleChoice": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "written": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "revealSelfAssessment": {
+                "answerSidePriorities": [
+                  "definition",
+                  "word"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              }
+            },
+            {
+              "studiableContainerId": 520929933,
+              "studiableContainerType": 1,
+              "studiableItemId": 18684164180,
+              "studiableItemType": 2,
+              "modelVersion": "5.0.67",
+              "predictionTimestamp": 1788363997,
+              "type": 5,
+              "multipleChoice": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "written": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "revealSelfAssessment": {
+                "answerSidePriorities": [
+                  "definition",
+                  "word"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              }
+            },
+            {
+              "studiableContainerId": 520929933,
+              "studiableContainerType": 1,
+              "studiableItemId": 18684164181,
+              "studiableItemType": 2,
+              "modelVersion": "5.0.67",
+              "predictionTimestamp": 1788363997,
+              "type": 5,
+              "multipleChoice": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "written": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "revealSelfAssessment": {
+                "answerSidePriorities": [
+                  "definition",
+                  "word"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              }
+            },
+            {
+              "studiableContainerId": 520929933,
+              "studiableContainerType": 1,
+              "studiableItemId": 18684164182,
+              "studiableItemType": 2,
+              "modelVersion": "5.0.67",
+              "predictionTimestamp": 1788363997,
+              "type": 5,
+              "multipleChoice": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "written": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "revealSelfAssessment": {
+                "answerSidePriorities": [
+                  "definition",
+                  "word"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              }
+            },
+            {
+              "studiableContainerId": 520929933,
+              "studiableContainerType": 1,
+              "studiableItemId": 18684164183,
+              "studiableItemType": 2,
+              "modelVersion": "5.0.67",
+              "predictionTimestamp": 1788363997,
+              "type": 5,
+              "multipleChoice": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "written": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "revealSelfAssessment": {
+                "answerSidePriorities": [
+                  "definition",
+                  "word"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              }
+            },
+            {
+              "studiableContainerId": 520929933,
+              "studiableContainerType": 1,
+              "studiableItemId": 18684164184,
+              "studiableItemType": 2,
+              "modelVersion": "5.0.67",
+              "predictionTimestamp": 1788363997,
+              "type": 5,
+              "multipleChoice": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "written": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "revealSelfAssessment": {
+                "answerSidePriorities": [
+                  "definition",
+                  "word"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              }
+            },
+            {
+              "studiableContainerId": 520929933,
+              "studiableContainerType": 1,
+              "studiableItemId": 18684164185,
+              "studiableItemType": 2,
+              "modelVersion": "5.0.67",
+              "predictionTimestamp": 1788363997,
+              "type": 5,
+              "multipleChoice": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "written": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "revealSelfAssessment": {
+                "answerSidePriorities": [
+                  "definition",
+                  "word"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              }
+            },
+            {
+              "studiableContainerId": 520929933,
+              "studiableContainerType": 1,
+              "studiableItemId": 18684164186,
+              "studiableItemType": 2,
+              "modelVersion": "5.0.67",
+              "predictionTimestamp": 1788363997,
+              "type": 5,
+              "multipleChoice": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "written": {
+                "answerSidePriorities": [
+                  "word",
+                  "definition"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              },
+              "revealSelfAssessment": {
+                "answerSidePriorities": [
+                  "definition",
+                  "word"
+                ],
+                "allowKmpLanguageLearningLogicOverwrite": true
+              }
+            }
+          ],
+          "studiableMetadataStatus": 2
+        },
+        "6": {
+          "studiableMetadata": [],
+          "studiableMetadataStatus": 0
+        }
+      },
+      "studiableItems": [
+        {
+          "id": 18684164167,
+          "studiableContainerType": 1,
+          "studiableContainerId": 520929933,
+          "type": 2,
+          "rank": 0,
+          "creatorId": 182188126,
+          "timestamp": 1598539874,
+          "lastModified": 1598539874,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "开学",
+                  "languageCode": "zh-CN",
+                  "ttsUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5byA5a2m&s=MzA1YzM5OWQ&sublanguage=cn",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5byA5a2m&s=MzA1YzM5OWQ&sublanguage=cn&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "school opens / new term begins",
+                  "languageCode": "en",
+                  "ttsUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=c2Nob29sIG9wZW5zIC8gbmV3IHRlcm0gYmVnaW5z&s=ZDBiNmEyYjQ",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=c2Nob29sIG9wZW5zIC8gbmV3IHRlcm0gYmVnaW5z&s=ZDBiNmEyYjQ&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 18684164168,
+          "studiableContainerType": 1,
+          "studiableContainerId": 520929933,
+          "type": 2,
+          "rank": 1,
+          "creatorId": 182188126,
+          "timestamp": 1598539874,
+          "lastModified": 1598539874,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "新生",
+                  "languageCode": "zh-CN",
+                  "ttsUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5paw55Sf&s=N2UwYjEwZmY&sublanguage=cn",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5paw55Sf&s=N2UwYjEwZmY&sublanguage=cn&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "new student",
+                  "languageCode": "en",
+                  "ttsUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=bmV3IHN0dWRlbnQ&s=YjRjNTUxNzY",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=bmV3IHN0dWRlbnQ&s=YjRjNTUxNzY&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 18684164169,
+          "studiableContainerType": 1,
+          "studiableContainerId": 520929933,
+          "type": 2,
+          "rank": 2,
+          "creatorId": 182188126,
+          "timestamp": 1598539874,
+          "lastModified": 1598539874,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "辆",
+                  "languageCode": "zh-CN",
+                  "ttsUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=6L6G&s=OTkwZTQzMjA&sublanguage=cn",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=6L6G&s=OTkwZTQzMjA&sublanguage=cn&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "measure word for vehicles",
+                  "languageCode": "en",
+                  "ttsUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=bWVhc3VyZSB3b3JkIGZvciB2ZWhpY2xlcw&s=MjJkMTUxOTY",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=bWVhc3VyZSB3b3JkIGZvciB2ZWhpY2xlcw&s=MjJkMTUxOTY&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 18684164170,
+          "studiableContainerType": 1,
+          "studiableContainerId": 520929933,
+          "type": 2,
+          "rank": 3,
+          "creatorId": 182188126,
+          "timestamp": 1598539874,
+          "lastModified": 1598539874,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "研究生",
+                  "languageCode": "zh-CN",
+                  "ttsUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=56CU56m255Sf&s=M2NlYjA1ZTU&sublanguage=cn",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=56CU56m255Sf&s=M2NlYjA1ZTU&sublanguage=cn&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "graduate student",
+                  "languageCode": "en",
+                  "ttsUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=Z3JhZHVhdGUgc3R1ZGVudA&s=ZGNhNGEzNTc",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=Z3JhZHVhdGUgc3R1ZGVudA&s=ZGNhNGEzNTc&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 18684164171,
+          "studiableContainerType": 1,
+          "studiableContainerId": 520929933,
+          "type": 2,
+          "rank": 4,
+          "creatorId": 182188126,
+          "timestamp": 1598539874,
+          "lastModified": 1598539874,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "出生",
+                  "languageCode": "zh-CN",
+                  "ttsUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5Ye655Sf&s=NWY0ZmZlZDg&sublanguage=cn",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5Ye655Sf&s=NWY0ZmZlZDg&sublanguage=cn&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "to be born",
+                  "languageCode": "en",
+                  "ttsUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=dG8gYmUgYm9ybg&s=MTYyNmU4N2U",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=dG8gYmUgYm9ybg&s=MTYyNmU4N2U&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 18684164172,
+          "studiableContainerType": 1,
+          "studiableContainerId": 520929933,
+          "type": 2,
+          "rank": 5,
+          "creatorId": 182188126,
+          "timestamp": 1598539874,
+          "lastModified": 1598539874,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "弓",
+                  "languageCode": "zh-CN",
+                  "ttsUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5byT&s=YmU4ZGE1NjM&sublanguage=cn",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5byT&s=YmU4ZGE1NjM&sublanguage=cn&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "bow",
+                  "languageCode": "en",
+                  "ttsUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=Ym93&s=NTI3OWY1NDA",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=Ym93&s=NTI3OWY1NDA&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 18684164173,
+          "studiableContainerType": 1,
+          "studiableContainerId": 520929933,
+          "type": 2,
+          "rank": 6,
+          "creatorId": 182188126,
+          "timestamp": 1598539874,
+          "lastModified": 1598539874,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "长",
+                  "languageCode": "zh-CN",
+                  "ttsUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=6ZW.&s=N2ZhMGJjOWE&sublanguage=cn",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=6ZW.&s=N2ZhMGJjOWE&sublanguage=cn&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "long",
+                  "languageCode": "en",
+                  "ttsUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=bG9uZw&s=OGNhZjA1OGI",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=bG9uZw&s=OGNhZjA1OGI&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 18684164174,
+          "studiableContainerType": 1,
+          "studiableContainerId": 520929933,
+          "type": 2,
+          "rank": 7,
+          "creatorId": 182188126,
+          "timestamp": 1598539874,
+          "lastModified": 1598539874,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "校外",
+                  "languageCode": "zh-CN",
+                  "ttsUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5qCh5aSW&s=ZjlhZDNjZTg&sublanguage=cn",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5qCh5aSW&s=ZjlhZDNjZTg&sublanguage=cn&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "off campus",
+                  "languageCode": "en",
+                  "ttsUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=b2ZmIGNhbXB1cw&s=ODY1Mjk2OTg",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=b2ZmIGNhbXB1cw&s=ODY1Mjk2OTg&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 18684164175,
+          "studiableContainerType": 1,
+          "studiableContainerId": 520929933,
+          "type": 2,
+          "rank": 8,
+          "creatorId": 182188126,
+          "timestamp": 1598539874,
+          "lastModified": 1598539874,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "校内",
+                  "languageCode": "zh-CN",
+                  "ttsUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5qCh5YaF&s=MDY5ZDE5OTU&sublanguage=cn",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5qCh5YaF&s=MDY5ZDE5OTU&sublanguage=cn&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "on campus",
+                  "languageCode": "en",
+                  "ttsUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=b24gY2FtcHVz&s=YzgzYmI5Njk",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=b24gY2FtcHVz&s=YzgzYmI5Njk&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 18684164176,
+          "studiableContainerType": 1,
+          "studiableContainerId": 520929933,
+          "type": 2,
+          "rank": 9,
+          "creatorId": 182188126,
+          "timestamp": 1598539874,
+          "lastModified": 1598539874,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "安全",
+                  "languageCode": "zh-CN",
+                  "ttsUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5a6J5YWo&s=MjZhNTdlYjk&sublanguage=cn",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5a6J5YWo&s=MjZhNTdlYjk&sublanguage=cn&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "safe / secure",
+                  "languageCode": "en",
+                  "ttsUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=c2FmZSAvIHNlY3VyZQ&s=NjI0ZWIzMDE",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=c2FmZSAvIHNlY3VyZQ&s=NjI0ZWIzMDE&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 18684164177,
+          "studiableContainerType": 1,
+          "studiableContainerId": 520929933,
+          "type": 2,
+          "rank": 10,
+          "creatorId": 182188126,
+          "timestamp": 1598539874,
+          "lastModified": 1598539874,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "比较",
+                  "languageCode": "zh-CN",
+                  "ttsUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5q-U6L6D&s=ZDg5YjY3YWU&sublanguage=cn",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5q-U6L6D&s=ZDg5YjY3YWU&sublanguage=cn&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "relatively / comparatively",
+                  "languageCode": "en",
+                  "ttsUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=cmVsYXRpdmVseSAvIGNvbXBhcmF0aXZlbHk&s=ZjQ1ZDc3Y2I",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=cmVsYXRpdmVseSAvIGNvbXBhcmF0aXZlbHk&s=ZjQ1ZDc3Y2I&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 18684164178,
+          "studiableContainerType": 1,
+          "studiableContainerId": 520929933,
+          "type": 2,
+          "rank": 11,
+          "creatorId": 182188126,
+          "timestamp": 1598539874,
+          "lastModified": 1598539874,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "省钱",
+                  "languageCode": "zh-CN",
+                  "ttsUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=55yB6ZKx&s=MTlkMzc0MmE&sublanguage=cn",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=55yB6ZKx&s=MTlkMzc0MmE&sublanguage=cn&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "to save money",
+                  "languageCode": "en",
+                  "ttsUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=dG8gc2F2ZSBtb25leQ&s=ZWI0ZDY5OGM",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=dG8gc2F2ZSBtb25leQ&s=ZWI0ZDY5OGM&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 18684164179,
+          "studiableContainerType": 1,
+          "studiableContainerId": 520929933,
+          "type": 2,
+          "rank": 12,
+          "creatorId": 182188126,
+          "timestamp": 1598539874,
+          "lastModified": 1598539874,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "自由",
+                  "languageCode": "zh-CN",
+                  "ttsUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=6Ieq55Sx&s=ZTY0YTQ1NGE&sublanguage=cn",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=6Ieq55Sx&s=ZTY0YTQ1NGE&sublanguage=cn&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "freedom / free",
+                  "languageCode": "en",
+                  "ttsUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=ZnJlZWRvbSAvIGZyZWU&s=MGEwYThjM2U",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=ZnJlZWRvbSAvIGZyZWU&s=MGEwYThjM2U&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 18684164180,
+          "studiableContainerType": 1,
+          "studiableContainerId": 520929933,
+          "type": 2,
+          "rank": 13,
+          "creatorId": 182188126,
+          "timestamp": 1598539874,
+          "lastModified": 1598539874,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "不见得",
+                  "languageCode": "zh-CN",
+                  "ttsUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5LiN6KeB5b6X&s=NWE2N2Q1NDc&sublanguage=cn",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5LiN6KeB5b6X&s=NWE2N2Q1NDc&sublanguage=cn&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "not necessarily",
+                  "languageCode": "en",
+                  "ttsUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=bm90IG5lY2Vzc2FyaWx5&s=MTgzMmI1OTk",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=bm90IG5lY2Vzc2FyaWx5&s=MTgzMmI1OTk&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 18684164181,
+          "studiableContainerType": 1,
+          "studiableContainerId": 520929933,
+          "type": 2,
+          "rank": 14,
+          "creatorId": 182188126,
+          "timestamp": 1598539874,
+          "lastModified": 1598539874,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "好处",
+                  "languageCode": "zh-CN",
+                  "ttsUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5aW95aSE&s=ZTNjYmNlMDU&sublanguage=cn",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5aW95aSE&s=ZTNjYmNlMDU&sublanguage=cn&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "benefit / advantage",
+                  "languageCode": "en",
+                  "ttsUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=YmVuZWZpdCAvIGFkdmFudGFnZQ&s=MTA4OTIzOGY",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=YmVuZWZpdCAvIGFkdmFudGFnZQ&s=MTA4OTIzOGY&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 18684164182,
+          "studiableContainerType": 1,
+          "studiableContainerId": 520929933,
+          "type": 2,
+          "rank": 15,
+          "creatorId": 182188126,
+          "timestamp": 1598539874,
+          "lastModified": 1598539874,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "适应",
+                  "languageCode": "zh-CN",
+                  "ttsUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=6YCC5bqU&s=ZWZiYTgzODU&sublanguage=cn",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=6YCC5bqU&s=ZWZiYTgzODU&sublanguage=cn&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "adapt / become accustomed to",
+                  "languageCode": "en",
+                  "ttsUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=YWRhcHQgLyBiZWNvbWUgYWNjdXN0b21lZCB0bw&s=YTZhYzFjYzQ",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=YWRhcHQgLyBiZWNvbWUgYWNjdXN0b21lZCB0bw&s=YTZhYzFjYzQ&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 18684164183,
+          "studiableContainerType": 1,
+          "studiableContainerId": 520929933,
+          "type": 2,
+          "rank": 16,
+          "creatorId": 182188126,
+          "timestamp": 1598539874,
+          "lastModified": 1598539874,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "生活",
+                  "languageCode": "zh-CN",
+                  "ttsUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=55Sf5rS7&s=ZDQxMDQ0ZWE&sublanguage=cn",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=55Sf5rS7&s=ZDQxMDQ0ZWE&sublanguage=cn&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "life / to live",
+                  "languageCode": "en",
+                  "ttsUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=bGlmZSAvIHRvIGxpdmU&s=ZjVkZWRmZDU",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=bGlmZSAvIHRvIGxpdmU&s=ZjVkZWRmZDU&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 18684164184,
+          "studiableContainerType": 1,
+          "studiableContainerId": 520929933,
+          "type": 2,
+          "rank": 17,
+          "creatorId": 182188126,
+          "timestamp": 1598539874,
+          "lastModified": 1598539874,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "搬家",
+                  "languageCode": "zh-CN",
+                  "ttsUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5pCs5a62&s=ZjY4MjQ0Zjk&sublanguage=cn",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5pCs5a62&s=ZjY4MjQ0Zjk&sublanguage=cn&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "to move (one's residence)",
+                  "languageCode": "en",
+                  "ttsUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=dG8gbW92ZSAob25lJ3MgcmVzaWRlbmNlKQ&s=NmE1MjczMWM",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=dG8gbW92ZSAob25lJ3MgcmVzaWRlbmNlKQ&s=NmE1MjczMWM&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 18684164185,
+          "studiableContainerType": 1,
+          "studiableContainerId": 520929933,
+          "type": 2,
+          "rank": 18,
+          "creatorId": 182188126,
+          "timestamp": 1598539874,
+          "lastModified": 1598539874,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "帮忙",
+                  "languageCode": "zh-CN",
+                  "ttsUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5biu5b-Z&s=NThmOTBmNTM&sublanguage=cn",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=5biu5b-Z&s=NThmOTBmNTM&sublanguage=cn&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "to help / lend a hand",
+                  "languageCode": "en",
+                  "ttsUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=dG8gaGVscCAvIGxlbmQgYSBoYW5k&s=NmI5YWY0NTQ",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=dG8gaGVscCAvIGxlbmQgYSBoYW5k&s=NmI5YWY0NTQ&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 18684164186,
+          "studiableContainerType": 1,
+          "studiableContainerId": 520929933,
+          "type": 2,
+          "rank": 19,
+          "creatorId": 182188126,
+          "timestamp": 1598545917,
+          "lastModified": 1598545917,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "落",
+                  "languageCode": "zh-CN",
+                  "ttsUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=6JC9&s=M2EwZTQwYzI&sublanguage=cn",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/zh.mp3?v=2&b=6JC9&s=M2EwZTQwYzI&sublanguage=cn&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "to leave (something) behind",
+                  "languageCode": "en",
+                  "ttsUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=dG8gbGVhdmUgKHNvbWV0aGluZykgYmVoaW5k&s=ZGQ1MDhmZGU",
+                  "ttsSlowUrl": "https://quizlet.com/v1/tts/en.mp3?v=2&b=dG8gbGVhdmUgKHNvbWV0aGluZykgYmVoaW5k&s=ZGQ1MDhmZGU&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        }
+      ],
+      "setIdToDiagramImage": {},
+      "accents": {
+        "word": [
+          "生",
+          "校",
+          "开",
+          "学",
+          "新",
+          "辆",
+          "研",
+          "究",
+          "出",
+          "弓",
+          "长",
+          "外",
+          "内",
+          "安",
+          "全",
+          "比",
+          "较",
+          "省",
+          "钱",
+          "自",
+          "由",
+          "不",
+          "见",
+          "得",
+          "好",
+          "处",
+          "适",
+          "应",
+          "活",
+          "搬",
+          "家",
+          "帮",
+          "忙",
+          "落"
+        ],
+        "definition": []
+      },
+      "diagramImages": [],
+      "editableStudiableItemIds": [],
+      "selectedTerms": {},
+      "starredStudiableItemIds": [],
+      "studiableContainer": {
+        "id": 520929933,
+        "timestamp": 1598539874,
+        "lastModified": 1598545940,
+        "publishedTimestamp": 1598545940,
+        "creatorId": 182188126,
+        "wordLang": "zh-CN",
+        "defLang": "en",
+        "title": "Integrated Chinese 3 - Lesson 1",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 20,
+        "hasImages": false,
+        "parentId": 417280790,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/520929933/integrated-chinese-3-lesson-1-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0
+      },
+      "studiableContainerType": 1,
+      "crossModeResetTimestamp": null
+    },
+    "sessions": {
+      "initialSessions": {
+        "unstarred": {
+          "id": 29905469794,
+          "personId": 423434763,
+          "itemId": 520929933,
+          "itemType": 1,
+          "timestamp": 1788369302,
+          "endedTimestamp": 0,
+          "type": 2,
+          "score": 0,
+          "hidden": false,
+          "selectedOnly": false,
+          "lastModified": 1788369302,
+          "_folderId": null,
+          "_setId": 520929933
+        },
+        "starred": null
+      },
+      "personId": "423434763",
+      "sessionLuid": null
+    },
+    "settings": {
+      "ad": {
+        "adModalShownAt": 1788974438233,
+        "adModalTimesShown": 0,
+        "adsIds": {
+          "sidebarAdsId": null,
+          "footerAdsId": null
+        },
+        "lastActionTimestamp": null,
+        "shouldShowAd": true,
+        "shouldShowNewStudyBreak": false
+      },
+      "display": {
+        "canEditRichText": false,
+        "hiddenSettings": [
+          8,
+          20,
+          21,
+          31
+        ],
+        "isEmbedding": false,
+        "isOptionsModalOpen": false,
+        "modePath": "/520929933/flashcards",
+        "newLearnSettingsApiEnabled": false,
+        "personId": "423434763",
+        "shouldHideEmbedControl": false,
+        "shouldShowQChatLink": false,
+        "shouldShowStudyTopNav": true,
+        "starredModePath": "/520929933/flashcards/starred",
+        "studyModeType": 2,
+        "userStudyable": {
+          "id": 12135239167,
+          "personId": 423434763,
+          "studyableType": 1,
+          "studyableId": 520929933,
+          "startTimestamp": 1787764496,
+          "dueTimestamp": 0,
+          "notificationStatus": 1,
+          "_folderId": null,
+          "_setId": 520929933,
+          "timestamp": 1788369296,
+          "lastModified": 1788369296
+        }
+      },
+      "preference": {
+        "acceptsPartialAnswer": false,
+        "advancedAudioSettings": {
+          "wordEnabled": true,
+          "definitionEnabled": true,
+          "slowWordEnabled": false,
+          "slowDefinitionEnabled": false
+        },
+        "answerWith": {
+          "definition": false,
+          "location": false,
+          "term": true
+        },
+        "cardsShuffleSeed": null,
+        "retypeCorrectAnswerEnabled": false,
+        "isAudioOn": false,
+        "gameSoundEffectsOn": true,
+        "learnSoundEffectsOn": true,
+        "locationQuestionTypes": [],
+        "promptWith": {
+          "definition": true,
+          "location": false,
+          "term": false
+        },
+        "questionTypes": {
+          "copyAnswer": false,
+          "fillInTheBlank": false,
+          "fillInTheBlankMultipleChoice": false,
+          "multipleChoiceSelectAllThatApply": false,
+          "matching": false,
+          "multipleChoice": false,
+          "multipleChoiceWithNoneOption": false,
+          "revealSelfAssessment": false,
+          "written": false,
+          "spelling": false
+        },
+        "retryQuestionEnabled": false,
+        "showImagesOnQuestion": true,
+        "showImagesOnAnswer": true,
+        "shuffle": false,
+        "smartGrading": false,
+        "sortingOn": false,
+        "studyPath": null,
+        "studyPathGoal": null,
+        "studyPathKnowledgeLevel": null,
+        "studyStarredOnly": false,
+        "typoHelpGradingSetting": null,
+        "writtenTypes": null
+      },
+      "abTest": {
+        "shouldShowTestToLearn": false
+      }
+    },
+    "metering": {
+      "meteringData": null
+    },
+    "onboarding": {
+      "daysSinceLastVisit": 7
+    }
+  },
+  "studyGroups": {
+    "activeStudyGroup": null,
+    "studyGroups": [],
+    "studyGroupSetAssociations": [],
+    "studyGroupProgress": {
+      "isFetching": false,
+      "isLoading": false,
+      "isError": false
+    },
+    "saveStudyGroupProgress": {
+      "isFetching": false,
+      "isLoading": false,
+      "isError": false
+    },
+    "studyGroupInitialization": {
+      "hasLoadedGroup": false,
+      "hasCompletedJoinFlow": false
+    },
+    "isFetchStudyGroupsLoading": false,
+    "isCreateStudyGroupLoading": false,
+    "isFetchActiveStudyGroupLoading": false,
+    "isLeaveStudyGroupLoading": false,
+    "isUpdateActiveStudyGroupLoading": false,
+    "isUpdateStudyGroupMembershipLoading": false,
+    "isFetchStudyGroupSetAssociationsLoading": false,
+    "isSaveStudyGroupSetAssociationsLoading": false,
+    "isRemoveStudyGroupSetAssociationsLoading": false
+  },
+  "srs": {
+    "currentStep": null,
+    "upcomingSteps": [],
+    "pendingStepsBatch": null,
+    "navContent": null,
+    "progressBar": null,
+    "isLoading": false,
+    "feedback": null,
+    "feedbackAnimationDirection": null,
+    "isTtsOn": false,
+    "experimentVariant": "control",
+    "showMiniPlayerSrs": false,
+    "conditionalEntryPill": null,
+    "flashcardStudyMethod": null,
+    "pendingFlashcardStudyMethod": null,
+    "studySessionId": null,
+    "ads": {
+      "isRenderingVideoAd": false,
+      "activeBoundaryIndex": null,
+      "preloadRequestedForBoundary": false,
+      "isNoFillForActiveBoundary": false,
+      "shouldShowCardIntervalAd": false,
+      "isInMLAdFrequencyPredictionRedTable": false
+    },
+    "events": {
+      "onExit": []
+    }
+  }
+}

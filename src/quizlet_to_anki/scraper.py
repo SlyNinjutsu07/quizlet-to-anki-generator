@@ -6,11 +6,33 @@ import json
 import requests
 import sys
 from bs4 import BeautifulSoup
+from pathlib import Path
 
-# return list[Card]
-def extract_cards(next_data: dict) -> None:
+TARGET_KEY = 'studiableItems'
 
-    pass
+def find_redux_to_json(next_data: dict) -> list[dict]:
+    if not next_data["props"]["pageProps"]["dehydratedReduxStateKey"]:
+        raise ValueError("Could not find 'dehydratedReduxStateKey' string")
+
+    # 1. reach the string
+    redux_string = next_data["props"]["pageProps"]["dehydratedReduxStateKey"]
+
+    # 2. parse redux string into a proper dict
+    redux = json.loads(redux_string)
+
+    # 3. iterable dict for study_items
+    study_items = redux["studyModesCommon"]["studiableData"]["studiableItems"]
+    return study_items
+
+
+def extract_cards(studiable_items: list[dict]) -> list[Card]:
+    cards = []
+    for item in studiable_items:
+        word_side, definition_side = item["cardSides"][0], item["cardSides"][1]
+        front = word_side["media"][0]["plainText"]
+        back = definition_side["media"][0]["plainText"]
+        cards.append(Card(front=front, back=back))
+    return cards
 
 def extractor(url):
     # get url from user (handled by cli.py)
@@ -54,5 +76,6 @@ def extractor(url):
         print("\'__NEXT_DATA__\' script tag not found on this page.")
 
 
-
-
+data = json.loads(Path("tests/sample_next_data.json").read_text(encoding='utf-8'))
+study_items = find_redux_to_json(data)
+cards = extract_cards(study_items)
