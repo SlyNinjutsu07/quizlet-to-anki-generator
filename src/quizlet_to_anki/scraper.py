@@ -1,6 +1,6 @@
 """Reads a Quizlet set and generates a list of Cards."""
 
-from models import Card
+from .models import Card
 
 import json
 import requests
@@ -11,6 +11,9 @@ from pathlib import Path
 TARGET_KEY = 'studiableItems'
 
 def find_redux_to_json(next_data: dict) -> list[dict]:
+    """Find the ``dehydratedReduxStateKey`` and convert it into an iterable ``dict``,
+    returning the ``studiableItems`` it contains."""
+
     if not next_data["props"]["pageProps"]["dehydratedReduxStateKey"]:
         raise ValueError("Could not find 'dehydratedReduxStateKey' string")
 
@@ -24,17 +27,40 @@ def find_redux_to_json(next_data: dict) -> list[dict]:
     study_items = redux["studyModesCommon"]["studiableData"]["studiableItems"]
     return study_items
 
-
+# relies on find_redux_to_json
 def extract_cards(studiable_items: list[dict]) -> list[Card]:
+    """Convert a list of ``studiableItems`` ``dicts`` into a list of ``Card`` objects,
+    pairing each item's first two card sides as front and back."""
     cards = []
-    for item in studiable_items:
-        word_side, definition_side = item["cardSides"][0], item["cardSides"][1]
-        front = word_side["media"][0]["plainText"]
-        back = definition_side["media"][0]["plainText"]
+    for idx, item in enumerate(studiable_items):
+        front, back = "", ""
+        for side in item.get("cardSides", []): #find cards, else default to empty arr
+            label = side.get("label")
+            media = side.get("media") or []
+
+            # check if media exists or if the text exists
+            if not media or "plainText" not in media[0]:
+                print(f"Warning: skipping malformed side (item {idx}, label={label!r})")
+                continue
+
+            text = media[0]["plainText"]
+            if label == "word":
+                front = text
+            elif label == "definition":
+                back = text
+
+        if not front or not back:
+            print(f"Warning: skipping item {idx} — missing front/back text")
+            continue
+
         cards.append(Card(front=front, back=back))
+
     return cards
 
-def extractor(url):
+
+def extract_next_data(url):
+    """Fetch a Quizlet set page, locate its __NEXT_DATA__ JSON blob, and
+    print the embedded set data."""
     # get url from user (handled by cli.py)
     url = "https://quizlet.com"
 
