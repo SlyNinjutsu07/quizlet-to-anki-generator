@@ -1,5 +1,5 @@
 # Test scraper functionality
-def test_extract_next_data():
+def test_scraper_main():
     pass
 
 def test_extract_cards():

@@ -8,7 +8,7 @@ import sys
 from bs4 import BeautifulSoup
 from pathlib import Path
 
-TARGET_KEY = 'studiableItems'
+# TARGET_KEY = 'studiableItems'
 
 def find_redux_to_json(next_data: dict) -> list[dict]:
     """Find the ``dehydratedReduxStateKey`` and convert it into an iterable ``dict``,
@@ -58,9 +58,10 @@ def extract_cards(studiable_items: list[dict]) -> list[Card]:
     return cards
 
 
-def extract_next_data(url):
+def scraper_main(url):
     """Fetch a Quizlet set page, locate its __NEXT_DATA__ JSON blob, and
     print the embedded set data."""
+
     # get url from user (handled by cli.py)
     url = "https://quizlet.com"
 
@@ -92,16 +93,12 @@ def extract_next_data(url):
         next_data_json = json.loads(next_data_tag.string)
 
         try:
-            set_data = next_data_json["props"]["pageProps"]["dehydratedState"]["queries"][0][
-                "state"
-            ]["data"]
-            print(json.dumps(set_data, indent=2))
+            study_items = find_redux_to_json(next_data_json)
+            cards = extract_cards(study_items)
+
+            return cards
         except KeyError:
             print("The expected JSON path was not found in \'__NEXT_DATA__\'.")
     else:
         print("\'__NEXT_DATA__\' script tag not found on this page.")
 
-
-data = json.loads(Path("tests/sample_next_data.json").read_text(encoding='utf-8'))
-study_items = find_redux_to_json(data)
-cards = extract_cards(study_items)
