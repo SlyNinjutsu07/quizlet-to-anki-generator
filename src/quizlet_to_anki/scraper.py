@@ -93,6 +93,7 @@ def scraper_main(url):
         next_data_json = json.loads(next_data_tag.string)
 
         try:
+
             study_items = find_redux_to_json(next_data_json)
             cards = extract_cards(study_items)
 

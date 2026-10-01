@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "quizlet-to-anki"
+version = "0.1.0"
+description = "Convert a Quizlet study set into an Anki .apkg deck"
+requires-python = ">=3.12"
+dependencies = [
+    "genanki>=0.13.0",
+    "requests>=2.31.0",
+    "beautifulsoup4>=4.12",
+]
+
+# This is the magic line: it creates a `qta` command that runs
+# the main() function in src/quizlet_to_anki/cli.py
+[project.scripts]
+qta = "quizlet_to_anki.cli:main"
+
+# Tells the packaging tool our code lives under src/
+[tool.setuptools.packages.find]
+where = ["src"]
