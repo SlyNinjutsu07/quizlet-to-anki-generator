@@ -41,3 +41,16 @@ Current progress so far:
 - establish working test cases for all `scraper.py` functions
 - ensure tests run well BEFORE reading data from a quizlet URL
 - ensure that when quizlet URL is read, we print out an error within the terminal as to why the error occurred.
+
+## 10.21.26
+Made a few corrections to some code
+
+- removed a unecessary `test_url` and `test_next_data_exists` because thats just runtime behavior we have to look out for
+- modified `test_build_deck` to use `pytest` and `tmp_path` instead.
+
+**TO-DO**:
+- ✅ ~~more test cases to write for `scraper.py` and `converter.py`~~ cleaned up `test_cli.py` and `test_converter.py`
+- work with Playwright library to access Quizlet URL
+- ~~ensure tests run well BEFORE reading data from a quizlet URL~~ <- establish URL checking and NEXT_DATA existence during runtime through `scraper.py` exception handling.
+    - ensure that when quizlet URL is read, we print out an error within the terminal as to why the error occurred.
+- establish working test cases for all `scraper.py` functions

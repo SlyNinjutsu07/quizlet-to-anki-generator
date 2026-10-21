@@ -14,26 +14,14 @@ from quizlet_to_anki.models import Card
 from quizlet_to_anki.converter import build_deck
 
 
-def test_build_deck():
+def test_build_deck(tmp_path):
     deck_name = "chinese-food"
-
     cards = [
         Card(front="炒饭", back="fried rice"),
         Card(front="酸辣汤", back="hot and sour soup"),
         Card(front="猪肉饺子", back="pork dumplings"),
     ]
+    build_deck(cards, deck_name, output_dir=tmp_path)
+    assert (tmp_path / "chinese-food.apkg").is_file()
+   # so we look for exactly that file to confirm it worked.
 
-    build_deck(cards, deck_name)
-
-    # build_deck writes to <project>/generated_apkgs/<deck_name>.apkg by default,
-    # so we look for exactly that file to confirm it worked.
-    expected = Path(__file__).resolve().parents[1] / "generated_apkgs" / f"{deck_name}.apkg"
-
-    if expected.exists():
-        print(f"✅ Deck generated: {expected}")
-    else:
-        print(f"❌ Deck was NOT generated (expected it at {expected})")
-
-
-if __name__ == "__main__":
-    test_build_deck()

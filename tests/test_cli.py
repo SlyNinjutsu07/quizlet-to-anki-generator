@@ -4,18 +4,6 @@ import json
 from pathlib import Path
 import pytest
 
-
-# PRECHECKS ->functions to check if a URL is valid first and can be read properly
-@pytest.mark.skip(reason="not implemented yet")
-def test_url():
-    '''Checks if we can acquire a readable html from the url'''
-    pass
-
-@pytest.mark.skip(reason="not implemented yet")
-def test_next_data_exists(): #return true or false
-    '''Checks if __NEXT_DATA__ exists in the inner html'''
-    pass
-
 # TEST BOTH ARE WIRED
 def test_wiring(tmp_path):
     sample = Path(__file__).parent / "sample_next_data.json"
