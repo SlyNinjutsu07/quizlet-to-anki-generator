@@ -24,3 +24,6 @@ The only reason I've been able to validate the function of `find_redux_to_json` 
 - establish working test cases for all `scraper.py` functions
 - ensure tests run well BEFORE reading data from a quizlet URL
 - ensure that when quizlet URL is read, we print out an error within the terminal as to why the error occurred.
+
+## 10.20.26
+Too much time has been wasted, starting back on the consistent grind.

@@ -58,9 +58,9 @@ def extract_cards(studiable_items: list[dict]) -> list[Card]:
     return cards
 
 
-def scraper_main(url):
+def fetch_next_data(url):
     """Fetch a Quizlet set page, locate its __NEXT_DATA__ JSON blob, and
-    print the embedded set data."""
+    return the embedded set data."""
 
     # get url from user (handled by cli.py)
     url = "https://quizlet.com"
@@ -90,16 +90,6 @@ def scraper_main(url):
 
     # check if the json data exists
     if next_data_tag and next_data_tag.string:
-        next_data_json = json.loads(next_data_tag.string)
-
-        try:
-
-            study_items = find_redux_to_json(next_data_json)
-            cards = extract_cards(study_items)
-
-            return cards
-        except KeyError:
-            print("The expected JSON path was not found in \'__NEXT_DATA__\'.")
-    else:
-        print("\'__NEXT_DATA__\' script tag not found on this page.")
+        return json.loads(next_data_tag.string)
+    raise ValueError("\'__NEXT_DATA__\' script tag not found on this page.")
 
