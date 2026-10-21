@@ -1,6 +1,6 @@
 """Command-line entry point: runs the scraper, then the converter."""
 import argparse
-import scraper, converter
+from . import scraper, converter
 from tests import test_cli
 import json
 from pathlib import Path

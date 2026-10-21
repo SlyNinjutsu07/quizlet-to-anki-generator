@@ -33,3 +33,11 @@ Current progress so far:
 - installed pytest so I don't have to add a "test" command when using cli
 - learned how to use `tmp_path` so I don't have to make my own and just build the deck into that
     - also stopped reading file with "./sample_next_data.json", because doing `Path(__file__).parent / ...` gets the parent of cli.py and then I can find the json file
+- ✅ finished `test_wiring`, runs fine through pytest
+
+**TO-DO**:
+- more test cases to write for `scraper.py` and `converter.py`
+- work with Playwright library to access Quizlet URL
+- establish working test cases for all `scraper.py` functions
+- ensure tests run well BEFORE reading data from a quizlet URL
+- ensure that when quizlet URL is read, we print out an error within the terminal as to why the error occurred.
