@@ -28,6 +28,8 @@ QUIZLET_MODEL = genanki.Model(
 def build_deck(card_list: list[Card], deck_name, apkg_name=None, output_dir=None):
     if apkg_name is None:
         apkg_name = f"{deck_name}.apkg"
+    elif not apkg_name.endswith(".apkg"):
+        apkg_name = f"{apkg_name}.apkg"
     if output_dir is None:
         output_dir = Path(__file__).resolve().parents[2] / "generated_apkgs"
 

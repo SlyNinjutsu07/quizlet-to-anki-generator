@@ -27,3 +27,9 @@ The only reason I've been able to validate the function of `find_redux_to_json` 
 
 ## 10.20.26
 Too much time has been wasted, starting back on the consistent grind.
+
+Current progress so far:
+- established a working `run_generation` method
+- installed pytest so I don't have to add a "test" command when using cli
+- learned how to use `tmp_path` so I don't have to make my own and just build the deck into that
+    - also stopped reading file with "./sample_next_data.json", because doing `Path(__file__).parent / ...` gets the parent of cli.py and then I can find the json file
