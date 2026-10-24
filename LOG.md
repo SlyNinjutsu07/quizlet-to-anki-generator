@@ -54,3 +54,23 @@ Made a few corrections to some code
 - ~~ensure tests run well BEFORE reading data from a quizlet URL~~ <- establish URL checking and NEXT_DATA existence during runtime through `scraper.py` exception handling.
     - ensure that when quizlet URL is read, we print out an error within the terminal as to why the error occurred.
 - establish working test cases for all `scraper.py` functions
+
+## 10.24.26
+Currently having some ideas of later transitioning this project into a chrome extension too, rather than a CLI app. I think it'd be much easier for people to use if I distribute it.
+
+Also removed BeautifulSoup and transitioned to using Playwright, which was the inital intention. The reasoning is that using BeautifulSoup would require me to use `requests` which is treated as an HTTP client, rather than a response being received from an actual browser, in order to get HTML code and find **"__NEXT_DATA__"**. So, because Quizlet uses Cloudflare, that method of scraping would automatically get rejected.
+
+Using Playwright allows me to use an "instance" of a browser, so it can actually access the HTML code of the Quizlet URL (which in this case would be the URL that shows all the cards).
+
+- modified `fetch_next_data` in `scraper.py` by removing BeautifulSoup functionality and replacing with Playwright
+    - also added `TimeoutError` in the case that it CANT find the **'__NEXT_DATA__'**.
+- added new arguments in `cli.py` for the url, naming, and setting the output directory
+    - there's a thing called `"setTitle"`, in the **"__NEXT_DATA__"** - I need to get that and set that as the default
+
+**TO-DO**:
+- ✅ cleaned up `test_cli.py` and `test_converter.py`
+- 🟨 work with Playwright library to access Quizlet URL
+    - ✅ establish URL checking and NEXT_DATA existence during runtime through `scraper.py` exception handling.
+    - add `"setTitle"` as default
+    - ensure that when quizlet URL is read, we print out an error within the terminal as to why the error occurred.
+- establish working test cases for all `scraper.py` functions
