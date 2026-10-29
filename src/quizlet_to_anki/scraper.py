@@ -27,7 +27,7 @@ def find_redux_to_json(next_data: dict) -> list[dict]:
     return study_items
 
 # relies on find_redux_to_json
-def extract_cards(studiable_items: list[dict]) -> list[Card]:
+def extract_cards(studiable_items: list[dict], isReverse: bool) -> list[Card]:
     """Convert a list of ``studiableItems`` ``dicts`` into a list of ``Card`` objects,
     pairing each item's first two card sides as front and back."""
     cards = []
@@ -44,15 +44,18 @@ def extract_cards(studiable_items: list[dict]) -> list[Card]:
 
             text = media[0]["plainText"]
             if label == "word":
-                front = text
+                    front = text
             elif label == "definition":
-                back = text
+                    back = text
 
         if not front or not back:
             print(f"Warning: skipping item {idx} — missing front/back text")
             continue
 
-        cards.append(Card(front=front, back=back))
+        if isReverse:
+            cards.append(Card(front=back, back=front))
+        else:
+            cards.append(Card(front=front, back=back))
 
     return cards
 

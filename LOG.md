@@ -74,3 +74,4 @@ Using Playwright allows me to use an "instance" of a browser, so it can actually
     - add `"setTitle"` as default
     - ensure that when quizlet URL is read, we print out an error within the terminal as to why the error occurred.
 - establish working test cases for all `scraper.py` functions
+
